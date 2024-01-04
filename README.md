@@ -13,7 +13,7 @@
 Love ❤️ to work with multiple programming language .
 </strong>
 </h3>
-  <img src="https://komarev.com/ghpvc/?username=aniruddhaadak80&label=Profile%20views&color=4974eb&style=flat-square" alt="aniruddhaadak80" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniruddhaadak80" alt="aniruddhaadak80" /></a> </p>
 
