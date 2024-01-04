@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Aniruddha Adak</h1>
+<h1 align="center">Hi 
+  <picture>  
+    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
+</picture>
+  , I'm Aniruddha Adak</h1>
 <h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniruddhaadak80&label=Profile%20views&color=4974eb&style=flat-square" alt="aniruddhaadak80" /> </p>
