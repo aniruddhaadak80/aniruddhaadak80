@@ -4,9 +4,16 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
 </picture>
   , I'm Aniruddha Adak</h1>
-<h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniruddhaadak80&label=Profile%20views&color=4974eb&style=flat-square" alt="aniruddhaadak80" /> </p>
+<h3 align="center">
+ <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f339/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f339/512.gif" alt="🌹" width="32" height="32">
+</picture> 
+<strong>  
+Love ❤️ to work with multiple programming language .
+</strong>
+</h3>
+  <img src="https://komarev.com/ghpvc/?username=aniruddhaadak80&label=Profile%20views&color=4974eb&style=flat-square" alt="aniruddhaadak80" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniruddhaadak80" alt="aniruddhaadak80" /></a> </p>
 
