@@ -26,7 +26,13 @@ Love ❤️ to work with multiple programming language .
 
 - 📫 Email me at - **aniruddhaadak80@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">
+  <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2705/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2705/512.gif" alt="✅" width="32" height="32">
+</picture>
+ <strong> Connect with me:</strong>
+</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aniruddha-adak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniruddha-adak" height="30" width="40" /></a>
 </p>
