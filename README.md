@@ -10,7 +10,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniruddhaadak80" alt="aniruddhaadak80" /></a> </p>
 
-- 🌱 I’m currently exploring about **Different technological Domains .**
+ <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="32" height="32">
+ </picture><strong>Currently exploring different technological Domains</strong>
 
 - 💬 Ask me about **C,C++,HTML5,CSS3,Bootstrap,JavaScript,mongodb etc.**
 
