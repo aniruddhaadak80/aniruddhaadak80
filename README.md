@@ -20,12 +20,14 @@ Love ❤️ to work with multiple programming language .
 
 <img   align="right" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="programming boy gif"  height="250px" width="400px" >
 
+<h3>
  <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="32" height="32">
  </picture><strong>Currently exploring different technological Domains.</strong>
+</h3>
 
-- 💬 Ask me about **C , C++ , HTML5 , CSS3 , Bootstrap , JavaScript , mongodb etc.**
+<h2>🤔💭 Ask me about ⬇️ </h2> <h3> <strong>C , C++ , HTML5 , CSS3 , Bootstrap , JavaScript , mongodb etc. </strong> </h3>
 
 <h2>Mail me  <img src="https://i.pinimg.com/originals/b0/ee/48/b0ee488b065e6868e2106db01aeb2428.gif" alt="down arrow gif"  height="20" width="20"> </h2>
 <a href="mailto:aniruddhaadak80@gmail.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"   height="30" width="30"  alt="mail" ></a>
@@ -41,11 +43,11 @@ Love ❤️ to work with multiple programming language .
   <!-- for linkedin  profile  -->
 <a href="https://linkedin.com/in/aniruddha-adak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
   <!-- for coding ninja profile  -->
-  <a href="https://www.codingninjas.com/studio/profile/aniruddha9"><img src="https://files.codingninjas.in/0000000000000723.jpg" alt="coding ninja"  height="30" width="40" align="center" ></a>
+  <a href="https://www.codingninjas.com/studio/profile/aniruddha9"><img src="https://files.codingninjas.in/0000000000000723.jpg" alt="coding ninja"  height="33" width="35" align="center" ></a>
 <!-- for sololearn profile  -->
   <a href="https://www.sololearn.com/en/profile/30200251"><img src="https://blob.sololearn.com/avatars/sololearn.png"  height="40" width="40" align="center" ></a>
   <!-- for propeers profile  -->
-  <a href="https://www.propeers.in/profile/aniruddha%20adak"><img src="https://tinyurl.com/ywzhwnsr"  height="40" width="40" align="center" ></a>
+  <a href="https://www.propeers.in/profile/aniruddha%20adak"><img src="https://tinyurl.com/ywzhwnsr"  height="35" width="35" align="center" ></a>
 <!-- for vercel profile  -->
   <a href="https://vercel.com/aniruddhaadak80"><img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png"  height="40" width="40" align="center" ></a>
 </p>
