@@ -37,8 +37,12 @@ Love ❤️ to work with multiple programming language .
  <strong> Connect with me:</strong>
 </h3>
 <p align="left">
+  <!-- for linkedin  profile  -->
 <a href="https://linkedin.com/in/aniruddha-adak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  <!-- for coding ninja profile  -->
   <a href="https://www.codingninjas.com/studio/profile/aniruddha9"><img src="https://files.codingninjas.in/0000000000000723.jpg" alt="coding ninja"  height="30" width="40" align="center" ></a>
+<!-- for sololearn profile  -->
+  <a href="https://www.sololearn.com/en/profile/30200251"><img src="https://blob.sololearn.com/avatars/sololearn.png"  height="40" width="40" align="center" ></a>
 </p>
 
 <h3 align="left">
