@@ -27,7 +27,8 @@ Love ❤️ to work with multiple programming language .
 
 - 💬 Ask me about **C , C++ , HTML5 , CSS3 , Bootstrap , JavaScript , mongodb etc.**
 
-- 📫 Email me at - **aniruddhaadak80@gmail.com**
+<h2>Mail me  <img src="https://i.pinimg.com/originals/b0/ee/48/b0ee488b065e6868e2106db01aeb2428.gif" alt="down arrow gif"  height="20" width="20"> </h2>
+<a href="mailto:aniruddhaadak80@gmail.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"   height="30" width="30"  alt="mail" ></a>
 
 <h3 align="left">
   <picture>
