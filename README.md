@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif" alt = "top gif " height="200px" width="auto" >
 <h1 align="center">Hi 
   <picture>  
     <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
@@ -22,7 +23,10 @@ Love ❤️ to work with multiple programming language .
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="32" height="32">
  </picture><strong>Currently exploring different technological Domains.</strong>
 
-- 💬 Ask me about **C,C++,HTML5,CSS3,Bootstrap,JavaScript,mongodb etc.**
+- 💬 Ask me about **C , C++ , HTML5 , CSS3 , Bootstrap , JavaScript , mongodb etc.**
+
+<img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="programming boy gif"  height="200px" width="auto" >
+ 
 
 - 📫 Email me at - **aniruddhaadak80@gmail.com**
 
