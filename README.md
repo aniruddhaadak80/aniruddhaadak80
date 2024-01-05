@@ -43,11 +43,13 @@ Love ❤️ to work with multiple programming language .
   <!-- for linkedin  profile  -->
 <a href="https://linkedin.com/in/aniruddha-adak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
   <!-- for coding ninja profile  -->
-  <a href="https://www.codingninjas.com/studio/profile/aniruddha9"><img src="https://files.codingninjas.in/0000000000000723.jpg" alt="coding ninja"  height="33" width="35" align="center" ></a>
+  <a href="https://www.codingninjas.com/studio/profile/aniruddha9"><img src="https://files.codingninjas.in/0000000000000723.jpg" alt="coding ninja"  height="33" width="33" align="center" ></a>
 <!-- for sololearn profile  -->
   <a href="https://www.sololearn.com/en/profile/30200251"><img src="https://blob.sololearn.com/avatars/sololearn.png"  height="40" width="40" align="center" ></a>
   <!-- for propeers profile  -->
   <a href="https://www.propeers.in/profile/aniruddha%20adak"><img src="https://tinyurl.com/ywzhwnsr"  height="35" width="35" align="center" ></a>
+    <!-- for netlify profile  -->
+  <a href="https://app.netlify.com/teams/aniruddhaadak80/overview" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0332/2730/9195/products/Monogram-Sticker.png?v=1678930262"  height="35" width="35" align="center" ></a>
 <!-- for vercel profile  -->
   <a href="https://vercel.com/aniruddhaadak80"><img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png"  height="40" width="40" align="center" ></a>
 </p>
