@@ -37,7 +37,8 @@ Love ❤️ to work with multiple programming language .
  <strong> Connect with me:</strong>
 </h3>
 <p align="left">
-<a href="https://linkedin.com/in/aniruddha-adak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniruddha-adak" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aniruddha-adak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://www.codingninjas.com/studio/profile/aniruddha9"><img src="https://files.codingninjas.in/0000000000000723.jpg" alt="coding ninja"  height="30" width="40" align="center" ></a>
 </p>
 
 <h3 align="left">
