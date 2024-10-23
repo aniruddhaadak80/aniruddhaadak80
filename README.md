@@ -5,6 +5,13 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
 </picture>
   , I'm Aniruddha Adak</h1>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aniruddha!😊;+🎉Let's+contribute+together;+Love+❤️+to+work+with+multiple+language;+👨‍💻Happy+coding;" />
+</h1>
+
+
+  
 <h3 align="center">
  <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f339/512.webp" type="image/webp">
@@ -18,7 +25,7 @@ Love ❤️ to work with multiple programming language .
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniruddhaadak80" alt="aniruddhaadak80" /></a> </p>
 
-<img   align="right" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="programming boy gif"  height="250px" width="400px" >
+<img   align="right" src="https://tinyurl.com/28llma7r" alt="programming boy gif"  height="250px" width="400px" >
 
 <h3>
  <picture>
@@ -47,7 +54,7 @@ Love ❤️ to work with multiple programming language .
 <!-- for sololearn profile  -->
   <a href="https://www.sololearn.com/en/profile/30200251"><img src="https://blob.sololearn.com/avatars/sololearn.png"  height="40" width="40" align="center" ></a>
   <!-- for propeers profile  -->
-  <a href="https://www.propeers.in/profile/aniruddha%20adak"><img src="https://tinyurl.com/ywzhwnsr"  height="35" width="35" align="center" ></a>
+  <a href="https://www.propeers.in/profile/aniruddha%20adak"><img src="https://tinyurl.com/25lhrvfw"  height="35" width="30" align="center" ></a>
     <!-- for netlify profile  -->
   <a href="https://app.netlify.com/teams/aniruddhaadak80/overview" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0332/2730/9195/products/Monogram-Sticker.png?v=1678930262"  height="35" width="35" align="center" ></a>
    <!-- for replit profile  -->
@@ -88,5 +95,17 @@ Love ❤️ to work with multiple programming language .
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniruddhaadak80&show_icons=true&theme=synthwave&title_color=ff0000&text_color=00ff00&bg_color=000000&locale=en&layout=compact" alt="aniruddhaadak80" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniruddhaadak80&show_icons=true&theme=radical&title_color=ff00ff&text_color=00ffff&bg_color=060f08&locale=en" alt="aniruddhaadak80" /></p>
+
+
+<!-- My contributions with snake game format -->
+<div align="center" style="padding: 20px;">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniruddhaadak80&" alt="aniruddhaadak80" /></p>
