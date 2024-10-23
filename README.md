@@ -11,7 +11,7 @@
   , I'm Aniruddha Adak</h1>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=90&duration=4000&lines=Hi+There!+👋;+I'm+Aniruddha!😊;+🎉Let's+contribute+together;+Love+❤️+to+work+with+multiple+language;+👨‍💻Happy+coding;🌞Have+a+nice+day👍;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=90&duration=4000&lines=Hi+There!+👋;+I'm+Aniruddha!😊;+🎉Let's+contribute+together;+Love+❤️+to+work+with+multiple+languages;+👨‍💻Happy+coding;🌞Have+a+nice+day👍;" />
 </h1>
 
 
