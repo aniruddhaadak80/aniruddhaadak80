@@ -94,7 +94,7 @@ Love ❤️ to work with multiple programming language .
 
 <br/><br/>
 
-<p><img align="left" width="1200" height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniruddhaadak80&show_icons=true&theme=synthwave&title_color=ff0000&text_color=00ff00&bg_color=000000&locale=en&layout=compact" alt="aniruddhaadak80" /></p>
+<p><img align="left" width="1500px" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniruddhaadak80&show_icons=true&theme=synthwave&title_color=ff0000&text_color=00ff00&bg_color=000000&locale=en&layout=compact" alt="aniruddhaadak80" /></p>
 
 <p>&nbsp;<img align="center" width="1200" height="300" src="https://github-readme-stats.vercel.app/api?username=aniruddhaadak80&show_icons=true&theme=radical&title_color=ff00ff&text_color=00ffff&bg_color=060f08&locale=en" alt="aniruddhaadak80" /></p>
 
