@@ -7,7 +7,7 @@
   , I'm Aniruddha Adak</h1>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aniruddha!😊;+🎉Let's+contribute+together;+Love+❤️+to+work+with+multiple+language;+👨‍💻Happy+coding;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=90&duration=4000&lines=Hi+There!+👋;+I'm+Aniruddha!😊;+🎉Let's+contribute+together;+Love+❤️+to+work+with+multiple+language;+👨‍💻Happy+coding;🌞Have+a+nice+day👍;" />
 </h1>
 
 
@@ -92,20 +92,29 @@ Love ❤️ to work with multiple programming language .
   <a href="https://www.kali.org/" arget="_blank"> <img src="https://tinyurl.com/2xfpkcw8" width="40" height="40" alt="vs code logo"> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniruddhaadak80&show_icons=true&theme=synthwave&title_color=ff0000&text_color=00ff00&bg_color=000000&locale=en&layout=compact" alt="aniruddhaadak80" /></p>
+<br/><br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniruddhaadak80&show_icons=true&theme=radical&title_color=ff00ff&text_color=00ffff&bg_color=060f08&locale=en" alt="aniruddhaadak80" /></p>
+<p><img align="left" width="1200" height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniruddhaadak80&show_icons=true&theme=synthwave&title_color=ff0000&text_color=00ff00&bg_color=000000&locale=en&layout=compact" alt="aniruddhaadak80" /></p>
 
+<p>&nbsp;<img align="center" width="1200" height="300" src="https://github-readme-stats.vercel.app/api?username=aniruddhaadak80&show_icons=true&theme=radical&title_color=ff00ff&text_color=00ffff&bg_color=060f08&locale=en" alt="aniruddhaadak80" /></p>
+
+<br/><br/>
 
 <!-- My contributions with snake game format -->
 <div align="center" style="padding: 20px;">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h1>🐍 My Contributions 🐍</h1>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <img alt="snake eating my contributions" width="1200" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </div>
 
+  
+ <br/><br/>
 
+<!-- My Stats -->
+<h1 align="center">✨ My Stats 💫</h1>
+<br>
+<div align=center>
+    <img  width="1200" height="300"  src="https://streak-stats.demolab.com/?user=aniruddhaadak80&theme=algolia" alt="aniruddhaadak80"/>
+  
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniruddhaadak80&" alt="aniruddhaadak80" /></p>
