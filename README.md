@@ -1,3 +1,7 @@
+<!-- Profile views -->
+[![](https://visitcount.itsvg.in/api?id=aniruddhaadak80&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 <center><img   src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif" alt = "top gif " height="300px" width="1000px" > </center> 
 <h1 align="center">Hi 
   <picture>  
@@ -118,3 +122,7 @@ Love ❤️ to work with multiple programming language .
   
 </div>
 
+<!-- My Contribution graph-->
+<h1 align='center'> 📊 My Graph 📈</h1>
+
+[![Aniruddha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aniruddhaadak80&theme=github-compact&hide_border=true	)](https://github.com/aniruddhaadak80/github-readme-activity-graph)
