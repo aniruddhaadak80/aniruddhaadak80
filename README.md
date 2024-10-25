@@ -1,7 +1,4 @@
-<!-- Profile views -->
-[![](https://visitcount.itsvg.in/api?id=aniruddhaadak80&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
+<!--Header image -->
 <center><img   src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif" alt = "top gif " height="300px" width="1000px" > </center> 
 <h1 align="center">Hi 
   <picture>  
@@ -22,12 +19,22 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f339/512.gif" alt="🌹" width="32" height="32">
 </picture> 
 <strong>  
-Love ❤️ to work with multiple programming language .
+Love ❤️ to work with multiple programming languages .
 </strong>
 </h3>
 
+<!-- profile views and greeting   -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aniruddhaadak80&label=Thanks+for+visiting!&color=0e75b6&style=flat" alt="aniruddhaadak80" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniruddhaadak80" alt="aniruddhaadak80" /></a> </p>
+<!-- github trophy  -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aniruddhaadak80&theme=algolia&no-frame=true" alt="aniruddhaadak80" />
+  </a>
+</p>
+
 
 <img   align="right" src="https://tinyurl.com/28llma7r" alt="programming boy gif"  height="250px" width="400px" >
 
