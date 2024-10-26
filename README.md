@@ -69,7 +69,7 @@ Love ❤️ to work with multiple programming languages .
   <!-- for propeers profile  -->
   <a href="https://www.propeers.in/profile/aniruddhaadak"><img src="https://tinyurl.com/2d4klw5l"  height="35" width="35" align="center" ></a>
     <!-- for netlify profile  -->
-  <a href="https://app.netlify.com/teams/aniruddhaadak80/overview" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0332/2730/9195/products/Monogram-Sticker.png?v=1678930262"  height="35" width="35" align="center" ></a>
+  <a href="https://app.netlify.com/teams/aniruddhaadak/sites" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0332/2730/9195/products/Monogram-Sticker.png?v=1678930262"  height="35" width="35" align="center" ></a>
    <!-- for replit profile  -->
   <a href="https://replit.com/@aniruddhaadak" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw-j-i2SGyQz_OEz-NUFJY7wFBuScv1Xmtx5G8HtHzRw&s"  height="35" width="35" align="center" ></a>
     <!-- Gitlab profile  -->
