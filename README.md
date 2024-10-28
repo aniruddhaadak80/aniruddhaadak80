@@ -1,5 +1,3 @@
-
-
 <!--Header image -->
 <center><img   src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif" alt = "top gif " height="300px" width="1000px" > </center> 
 <h1 align="center" color="rgb(138,43,226)">Hi 
@@ -43,15 +41,15 @@ Love ❤️ to work with multiple programming languages .
  </picture><strong>Currently exploring different technological Domains.</strong>
 </h3>
 
-<h2 color="rgb(164,0,0)"> <img src="https://tinyurl.com/288bbztv" height=36 align="left">🤔💭 Ask me about ⬇️ </h2> <h3 color="rgb(80,125,42)"> <strong>C , C++ , HTML5 , CSS3 , Bootstrap , JavaScript , mongodb etc. </strong> </h3>
+<h2 color="rgb(164,0,0)"> <img src="https://tinyurl.com/288bbztv" height=34 align="left">🤔💭 Ask me about ⬇️ </h2> <h3 color="rgb(80,125,42)"> <strong>C , C++ , HTML5 , CSS3 , Bootstrap , JavaScript , mongodb etc. </strong> </h3>
 
 <!-- Mail me gifs and textw -->
-<h2 color="rgb(0,206,209)"> <img src="https://tinyurl.com/22k837wc" alt="✅" width="34" align="left"> Mail me  <img src="https://tinyurl.com/23tagvde" alt="down arrow gif"  height="34" > </h2>
+<h2 color="rgb(0,206,209)"> <img src="https://tinyurl.com/22k837wc" alt="✅" width="30" height="30" align="center"> Mail me  <img src="https://tinyurl.com/23tagvde" alt="down arrow gif" align="center"  height="36" > </h2>
 <a href="mailto:aniruddhaadak80@gmail.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"   height="30" width="30"  alt="mail" ></a>
 
 <!-- connect me animated logo  with connect with me text   -->
 <h2 align="left" color="rgb(139,0,139)">
-<img src="https://tinyurl.com/2596942h" height=36 align="left" >
+<img src="https://tinyurl.com/2596942h" height=34 align="left" >
 <strong> Connect with me  👇</strong>
 </h2>
 
