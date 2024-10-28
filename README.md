@@ -1,6 +1,6 @@
 <!--Header image -->
 <center><img   src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif" alt = "top gif " height="300px" width="1000px" > </center> 
-<h1 align="center" color="purple">Hi 
+<h1 align="center" color="rgb(138,43,226)">Hi 
   <picture>  
     <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
@@ -37,16 +37,16 @@ Love ❤️ to work with multiple programming languages .
 <h3 color="yellow">
  <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="32" height="32">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="33" height="33">
  </picture><strong>Currently exploring different technological Domains.</strong>
 </h3>
 
-<h2>🤔💭 Ask me about ⬇️ </h2> <h3> <strong>C , C++ , HTML5 , CSS3 , Bootstrap , JavaScript , mongodb etc. </strong> </h3>
+<h2 color="rgb(164,0,0)">🤔💭 Ask me about ⬇️ </h2> <h3 color="rgb(80,125,42)"> <strong>C , C++ , HTML5 , CSS3 , Bootstrap , JavaScript , mongodb etc. </strong> </h3>
 
-<h2>Mail me  <img src="https://i.pinimg.com/originals/b0/ee/48/b0ee488b065e6868e2106db01aeb2428.gif" alt="down arrow gif"  height="20" width="20"> </h2>
+<h2 color="rgb(0,206,209)">Mail me  <img src="https://i.pinimg.com/originals/b0/ee/48/b0ee488b065e6868e2106db01aeb2428.gif" alt="down arrow gif"  height="20" width="20"> </h2>
 <a href="mailto:aniruddhaadak80@gmail.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"   height="30" width="30"  alt="mail" ></a>
 
-<h2 align="left">
+<h2 align="left" color="rgb(139,0,139)">
   <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2705/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2705/512.gif" alt="✅" width="32" height="32">
@@ -79,7 +79,8 @@ Love ❤️ to work with multiple programming languages .
   
 </div>
 
-<h2 align="left">
+<!-- Languages and tools -->
+<h2 align="left" color="rgb(242,0,60)">
   <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" height="32">
@@ -119,7 +120,7 @@ Love ❤️ to work with multiple programming languages .
 
 <!-- My contributions with snake game format -->
 <div align="center" style="padding: 20px;">
-  <h1>🐍 My Contributions 🐍</h1>
+  <h1 color="rgb(127,255,0)">🐍 My Contributions 🐍</h1>
   <br>
   <img alt="snake eating my contributions" width="1200" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </div>
@@ -128,7 +129,7 @@ Love ❤️ to work with multiple programming languages .
  <br/><br/>
 
 <!-- My Stats -->
-<h1 align="center">✨ My Stats 💫</h1>
+<h1 align="center" color="rgb(0,117,94)">✨ My Stats 💫</h1>
 <br>
 <div align=center>
     <img  width="1200" height="300"  src="https://streak-stats.demolab.com/?user=aniruddhaadak80&theme=algolia" alt="aniruddhaadak80"/>
@@ -136,7 +137,7 @@ Love ❤️ to work with multiple programming languages .
 </div>
 
 <!-- My Contribution graph-->
-<h1 align='center'> 📊 My Graph 📈</h1>
+<h1 align='center' color="rgb(132,27,45)"> 📊 My Graph 📈</h1>
 
 [![Aniruddha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aniruddhaadak80&theme=github-compact&hide_border=true	)](https://github.com/aniruddhaadak80/github-readme-activity-graph)
 
