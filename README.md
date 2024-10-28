@@ -1,19 +1,19 @@
 <!--Header image -->
 <center><img   src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif" alt = "top gif " height="300px" width="1000px" > </center> 
-<h1 align="center">Hi 
+<h1 align="center" color="purple">Hi 
   <picture>  
     <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
 </picture>
   , I'm Aniruddha Adak</h1>
 
+<!-- Dynamic gerrting for profile viewers  -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=90&duration=4000&lines=Hi+There!+👋;+I'm+Aniruddha!😊;+🎉Let's+contribute+together;+Love+❤️+to+work+with+multiple+languages;+👨‍💻Happy+coding;🌞Have+a+nice+day👍;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=950&height=90&duration=4000&lines=Hi+There!+👋;+I'm+Aniruddha!😊;A+Full-Stack+Developer+|+AI+Enthusiast+|+Problem+Solver;+🎉Let's+contribute+together;+Love+❤️+to+work+with+multiple+languages;+👨‍💻Happy+coding;🌞Have+a+nice+day👍;" />
 </h1>
 
 
-  
-<h3 align="center">
+<h3 align="center" color="green">
  <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f339/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f339/512.gif" alt="🌹" width="32" height="32">
@@ -23,10 +23,6 @@ Love ❤️ to work with multiple programming languages .
 </strong>
 </h3>
 
-<!-- profile views and greeting   -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aniruddhaadak80&label=Thanks+for+visiting!&color=0e75b6&style=flat" alt="aniruddhaadak80" />
-</p>
 
 <!-- github trophy  -->
 <p align="center">
@@ -38,7 +34,7 @@ Love ❤️ to work with multiple programming languages .
 
 <img   align="right" src="https://tinyurl.com/28llma7r" alt="programming boy gif"  height="250px" width="400px" >
 
-<h3>
+<h3 color="yellow">
  <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="32" height="32">
@@ -141,3 +137,13 @@ Love ❤️ to work with multiple programming languages .
 <h1 align='center'> 📊 My Graph 📈</h1>
 
 [![Aniruddha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aniruddhaadak80&theme=github-compact&hide_border=true	)](https://github.com/aniruddhaadak80/github-readme-activity-graph)
+
+
+
+<p align="center">
+  <a align="center" href="">
+  <img align="center" src="https://komarev.com/ghpvc/?username=aniruddhaadak80&label=Thanks+for+visiting"  width=300 height=60 />
+
+</a>
+</p>
+
