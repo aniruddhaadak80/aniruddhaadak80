@@ -1,3 +1,5 @@
+
+
 <!--Header image -->
 <center><img   src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif" alt = "top gif " height="300px" width="1000px" > </center> 
 <h1 align="center" color="rgb(138,43,226)">Hi 
@@ -43,16 +45,14 @@ Love ❤️ to work with multiple programming languages .
 
 <h2 color="rgb(164,0,0)">🤔💭 Ask me about ⬇️ </h2> <h3 color="rgb(80,125,42)"> <strong>C , C++ , HTML5 , CSS3 , Bootstrap , JavaScript , mongodb etc. </strong> </h3>
 
-<h2 color="rgb(0,206,209)">Mail me  <img src="https://i.pinimg.com/originals/b0/ee/48/b0ee488b065e6868e2106db01aeb2428.gif" alt="down arrow gif"  height="20" width="20"> </h2>
+<!-- Mail me gifs and textw -->
+<h2 color="rgb(0,206,209)"><img src="https://tinyurl.com/22k837wc" alt="✅" width="32" height="32"> Mail me  <img src="https://i.pinimg.com/originals/b0/ee/48/b0ee488b065e6868e2106db01aeb2428.gif" alt="down arrow gif"  height="20" width="20"> </h2>
 <a href="mailto:aniruddhaadak80@gmail.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"   height="30" width="30"  alt="mail" ></a>
 
-<!-- tick animated logo (✅) with connect with me text   -->
+<!-- connect me animated logo  with connect with me text   -->
 <h2 align="left" color="rgb(139,0,139)">
-  <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2705/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2705/512.gif" alt="✅" width="32" height="32">
-</picture>
- <strong> Connect with me 👇</strong>
+<img src="https://tinyurl.com/2596942h" height=34 >
+<strong> Connect with me  👇</strong>
 </h2>
 
 <!-- My Online  profiles  -->
