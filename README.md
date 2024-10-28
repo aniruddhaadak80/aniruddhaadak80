@@ -139,11 +139,10 @@ Love ❤️ to work with multiple programming languages .
 [![Aniruddha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aniruddhaadak80&theme=github-compact&hide_border=true	)](https://github.com/aniruddhaadak80/github-readme-activity-graph)
 
 
-
+<!-- Greeting profile viewers with numbers  -->
 <p align="center">
   <a align="center" href="">
   <img align="center" src="https://komarev.com/ghpvc/?username=aniruddhaadak80&label=Thanks+for+visiting"  width=300 height=60 />
-
 </a>
 </p>
 
