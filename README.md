@@ -37,11 +37,12 @@ Love ❤️ to work with multiple programming languages .
 <h3 color="yellow">
  <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="33" height="33">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="34" height="34">
  </picture><strong>Currently exploring different technological Domains.</strong>
 </h3>
 
-<h2 color="rgb(164,0,0)"><img src="https://tinyurl.com/288bbztv" height=34 align="center"> 🤔💭 Ask me about ⬇️ </h2> <h3 color="rgb(80,125,42)"> <strong>C , C++ , HTML5 , CSS3 , Bootstrap , JavaScript , mongodb etc. </strong> </h3>
+<h2 color="rgb(164,0,0)"><img src="https://tinyurl.com/288bbztv" height=34 align="center"> 🤔💭 Ask me about ⬇️ </h2> <h3 color="rgb(80,125,42)"> <strong><em> Next.js , React.js , Typescript , 
+Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong> </h3>
 
 <!-- Mail me gifs and textw -->
 <h2 color="rgb(0,206,209)"> <img src="https://tinyurl.com/22k837wc" alt="✅" width="30" height="30" align="center"> Mail me  <img src="https://tinyurl.com/23tagvde" alt="down arrow gif" align="center"  height="36" > </h2>
