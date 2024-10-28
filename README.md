@@ -43,15 +43,15 @@ Love ❤️ to work with multiple programming languages .
  </picture><strong>Currently exploring different technological Domains.</strong>
 </h3>
 
-<h2 color="rgb(164,0,0)">🤔💭 Ask me about ⬇️ </h2> <h3 color="rgb(80,125,42)"> <strong>C , C++ , HTML5 , CSS3 , Bootstrap , JavaScript , mongodb etc. </strong> </h3>
+<h2 color="rgb(164,0,0)"> <img src="https://tinyurl.com/288bbztv" height=36 align="left">🤔💭 Ask me about ⬇️ </h2> <h3 color="rgb(80,125,42)"> <strong>C , C++ , HTML5 , CSS3 , Bootstrap , JavaScript , mongodb etc. </strong> </h3>
 
 <!-- Mail me gifs and textw -->
-<h2 color="rgb(0,206,209)"><img src="https://tinyurl.com/22k837wc" alt="✅" width="32" height="32"> Mail me  <img src="https://i.pinimg.com/originals/b0/ee/48/b0ee488b065e6868e2106db01aeb2428.gif" alt="down arrow gif"  height="20" width="20"> </h2>
+<h2 color="rgb(0,206,209)"> <img src="https://tinyurl.com/22k837wc" alt="✅" width="34" align="left"> Mail me  <img src="https://tinyurl.com/23tagvde" alt="down arrow gif"  height="34" > </h2>
 <a href="mailto:aniruddhaadak80@gmail.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"   height="30" width="30"  alt="mail" ></a>
 
 <!-- connect me animated logo  with connect with me text   -->
 <h2 align="left" color="rgb(139,0,139)">
-<img src="https://tinyurl.com/2596942h" height=34 >
+<img src="https://tinyurl.com/2596942h" height=36 align="left" >
 <strong> Connect with me  👇</strong>
 </h2>
 
@@ -60,7 +60,7 @@ Love ❤️ to work with multiple programming languages .
   <!-- for linkedin  profile  -->
 <a href="https://linkedin.com/in/aniruddha-adak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
   <!-- for coding ninja profile  -->
-  <a href="https://www.naukri.com/code360/profile/aniruddha9"><img src="https://files.codingninjas.in/0000000000000723.jpg" alt="coding ninja"  height="33" width="35" align="center" ></a>
+  <a href="https://www.naukri.com/code360/profile/aniruddha9"><img src="https://files.codingninjas.in/0000000000000723.jpg" alt="coding ninja"  height="33"  align="center" ></a>
 <!-- for sololearn profile  -->
   <a href="https://www.sololearn.com/en/profile/30200251"><img src="https://blob.sololearn.com/avatars/sololearn.png"  height="40" width="40" align="center" ></a>
   <!-- for propeers profile  -->
