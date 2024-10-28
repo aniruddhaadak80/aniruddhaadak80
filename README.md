@@ -46,15 +46,16 @@ Love ❤️ to work with multiple programming languages .
 <h2 color="rgb(0,206,209)">Mail me  <img src="https://i.pinimg.com/originals/b0/ee/48/b0ee488b065e6868e2106db01aeb2428.gif" alt="down arrow gif"  height="20" width="20"> </h2>
 <a href="mailto:aniruddhaadak80@gmail.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"   height="30" width="30"  alt="mail" ></a>
 
+<!-- tick animated logo (✅) with connect with me text   -->
 <h2 align="left" color="rgb(139,0,139)">
   <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2705/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2705/512.gif" alt="✅" width="32" height="32">
 </picture>
-
-  <!-- My Online  profiles  -->
  <strong> Connect with me 👇</strong>
 </h2>
+
+<!-- My Online  profiles  -->
 <div align="left">
   <!-- for linkedin  profile  -->
 <a href="https://linkedin.com/in/aniruddha-adak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
