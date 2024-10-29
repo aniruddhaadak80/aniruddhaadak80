@@ -142,10 +142,17 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
 [![Aniruddha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aniruddhaadak80&theme=github-compact&hide_border=true	)](https://github.com/aniruddhaadak80/github-readme-activity-graph)
 
 
+<!-- My achievements {cirtificate , badges , contest , recognisation ...} -->
+<h1  color="#ffaa00 " align='center'> 🏆 My Achievements 🎉</h1>
+<h2 color= "#47de73" align="center"> 🦖🎖️ My Holopin Badges: Hacktoberfest 2024! 🚀 </h2>
+
+[![An image of @aniruddhaadak80's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aniruddhaadak80)](https://holopin.io/@aniruddhaadak80)
+
+
+
 <!-- Greeting profile viewers with numbers  -->
 <p align="center">
   <a align="center" href="">
   <img align="center" src="https://komarev.com/ghpvc/?username=aniruddhaadak80&label=Thanks+for+visiting"  width=300 height=60 />
 </a>
 </p>
-
