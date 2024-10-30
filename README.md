@@ -127,15 +127,18 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
 
 
 <!-- My Stats -->
-<h1 align="center" color="rgb(0,117,94)">✨ My Stats 💫</h1>
+<h1 align="center" color="rgb(0,117,94)">✨ My GitHub Highlights 💫 </h1>
 
 <!-- my languages percentages inside repo in stats format -->
+<h2 align="center" color="#AF7AC5">📸 Language Snapshot: My Code Spectrum 🌈</h2>
 <img align="center" width=1500 height=300 src="https://github-readme-stats.vercel.app/api/top-langs?username=aniruddhaadak80&show_icons=true&theme=synthwave&title_color=ff0000&text_color=00ff00&bg_color=000000&locale=en&layout=compact" alt="aniruddhaadak80" />
 
 <!-- my first github stats-->
+<h2 align="center" color="#E74C3C">🌠 GitHub Glory: Stats at a Glance 💥</h2>
 <img align="center" width="1200" height="300" src="https://github-readme-stats.vercel.app/api?username=aniruddhaadak80&show_icons=true&theme=radical&title_color=ff00ff&text_color=00ffff&bg_color=060f08&locale=en" alt="aniruddhaadak80 stats" />
 
 <!-- my second github stats -->
+<h2 align="center" color="#F39C12">💪 Commit Streak: Days of Consistency!🔥</h2>
 <img align="center" width="1200" height="300"  src="https://streak-stats.demolab.com/?user=aniruddhaadak80&theme=algolia" alt="aniruddhaadak80 2nd stats"/>
 
 
@@ -145,9 +148,6 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
   <br>
   <img alt="snake eating my contributions" width="1200" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </div>
-
-  
- <br/><br/>
 
 
 <!-- My Contribution graph-->
