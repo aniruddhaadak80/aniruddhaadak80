@@ -161,7 +161,6 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
 </div>
 
 
-
 <!-- My Contribution graph-->
 <h1 align='center' color="rgb(132,27,45)"> 📊 My Growth Curve! 📈 </h1>
 
