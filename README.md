@@ -57,23 +57,23 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
 <!-- My Online  profiles  -->
 <div align="left">
   <!-- for linkedin  profile  -->
-<a href="https://linkedin.com/in/aniruddha-adak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aniruddha-adak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="50" width="60" /></a>
   <!-- for coding ninja profile  -->
-  <a href="https://www.naukri.com/code360/profile/aniruddha9"><img src="https://files.codingninjas.in/0000000000000723.jpg" alt="coding ninja"  height="33"  align="center" ></a>
+  <a href="https://www.naukri.com/code360/profile/aniruddha9"><img src="https://files.codingninjas.in/0000000000000723.jpg" alt="coding ninja"  height="50"  align="center" ></a>
 <!-- for sololearn profile  -->
-  <a href="https://www.sololearn.com/en/profile/30200251"><img src="https://blob.sololearn.com/avatars/sololearn.png"  height="40" width="40" align="center" ></a>
+  <a href="https://www.sololearn.com/en/profile/30200251"><img src="https://blob.sololearn.com/avatars/sololearn.png"  height="70" width="70" align="center" ></a>
   <!-- for propeers profile  -->
-  <a href="https://www.propeers.in/profile/aniruddhaadak"><img src="https://tinyurl.com/2d4klw5l"  height="35" width="35" align="center" ></a>
+  <a href="https://www.propeers.in/profile/aniruddhaadak"><img src="https://tinyurl.com/2d4klw5l"  height="50"  align="center" ></a>
     <!-- for netlify profile  -->
-  <a href="https://app.netlify.com/teams/aniruddhaadak/sites" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0332/2730/9195/products/Monogram-Sticker.png?v=1678930262"  height="35" width="35" align="center" ></a>
+  <a href="https://app.netlify.com/teams/aniruddhaadak/sites" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0332/2730/9195/products/Monogram-Sticker.png?v=1678930262"  height="50"  align="center" ></a>
    <!-- for replit profile  -->
-  <a href="https://replit.com/@aniruddhaadak" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw-j-i2SGyQz_OEz-NUFJY7wFBuScv1Xmtx5G8HtHzRw&s"  height="35" width="35" align="center" ></a>
+  <a href="https://replit.com/@aniruddhaadak" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw-j-i2SGyQz_OEz-NUFJY7wFBuScv1Xmtx5G8HtHzRw&s"  height="50" align="center" ></a>
     <!-- Gitlab profile  -->
-  <a href="https://gitlab.com/aniruddha-adak"><img src="https://tinyurl.com/258jmkqg"  height="35" width="35" align="center" ></a>
+  <a href="https://gitlab.com/aniruddha-adak"><img src="https://tinyurl.com/258jmkqg"  height="50" align="center" ></a>
     <!-- twitter profile  -->
-  <a href="https://x.com/aniruddhadak"><img src="https://tinyurl.com/26fxec6v"  height="40" width="40" align="center" ></a>
+  <a href="https://x.com/aniruddhadak"><img src="https://tinyurl.com/26fxec6v"  height="55" align="center" ></a>
 <!-- for vercel profile  -->
-  <a href="https://vercel.com/aniruddhaadak80"><img src="https://tinyurl.com/22ybmq4z"  height="40" width="40" align="center" ></a>
+  <a href="https://vercel.com/aniruddhaadak80"><img src="https://tinyurl.com/22zfrefp"  height="60" align="center" ></a>
 <!-- Add more  profiles over this comment -->
   
 </div>
