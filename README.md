@@ -115,6 +115,10 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
   <a href="https://idx.google.com/" arget="_blank"> <img src="https://tinyurl.com/23527gns" width="60" height="60" alt=" google project idx "> </a>
     <!-- logo for Solid js -->
   <a href="https://www.solidjs.com/" arget="_blank"> <img src="https://tinyurl.com/24hw9a39" width="60" height="60" alt="Solid js "> </a>
+    <!-- logo for vite js  -->
+  <a href="https://vite.dev/" arget="_blank"> <img src="https://tinyurl.com/2xz8coh5" width="60" height="60" alt="vite js "> </a>
+   <!-- logo for typescript  -->
+  <a href="https://www.typescriptlang.org/" arget="_blank"> <img src="https://tinyurl.com/2xjue2pq" width="60" height="60" alt="typescript "> </a>
 </p>
 
 <br/><br/>
