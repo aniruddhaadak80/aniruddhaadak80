@@ -178,7 +178,7 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
 <!-- Greeting profile viewers with numbers  -->
 <p align="center">
   <a align="center" href="">
-  <img align="center" src="https://komarev.com/ghpvc/?username=aniruddhaadak80&label=Thanks+for+visiting"  width=300 height=60 />
+  <img align="center" src="https://komarev.com/ghpvc/?username=aniruddhaadak80&label=Thanks+for+visiting"  width=300 height=45 />
 </a>
 </p>
 
