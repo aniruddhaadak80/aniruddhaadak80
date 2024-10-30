@@ -75,7 +75,6 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
 <!-- for vercel profile  -->
   <a href="https://vercel.com/aniruddhaadak80"><img src="https://tinyurl.com/22ybmq4z"  height="40" width="40" align="center" ></a>
 <!-- Add more  profiles over this comment -->
-
   
 </div>
 
@@ -112,6 +111,8 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
   <a href="https://qwik.dev/" arget="_blank"> <img src="https://tinyurl.com/27lktf6z" width="60" height="60" alt="qwik js  logo"> </a>
    <!-- logo for tailwind css -->
   <a href="https://tailwindcss.com/" arget="_blank"> <img src="https://tinyurl.com/2cvpylag" width="70" height="70" alt="tailwind css logo"> </a>
+    <!-- logo for google project idx -->
+  <a href="https://idx.google.com/" arget="_blank"> <img src="https://tinyurl.com/23527gns" width="60" height="60" alt=" google project idx "> </a>
   
 </p>
 
