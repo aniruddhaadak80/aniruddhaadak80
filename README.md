@@ -144,14 +144,14 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
 
 <!-- My contributions with snake game format -->
 <div align="center" style="padding: 20px;">
-  <h1 color="rgb(127,255,0)">🐍 My Contributions 🐍</h1>
+  <h1 color="rgb(127,255,0)">🐍 My Contribution Snack! 🍭</h1>
   <br>
   <img alt="snake eating my contributions" width="1200" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </div>
 
 
 <!-- My Contribution graph-->
-<h1 align='center' color="rgb(132,27,45)"> 📊 My Graph 📈</h1>
+<h1 align='center' color="rgb(132,27,45)"> 📊 My Growth Curve! 📈 </h1>
 
 [![Aniruddha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aniruddhaadak80&theme=github-compact&hide_border=true	)](https://github.com/aniruddhaadak80/github-readme-activity-graph)
 
