@@ -119,6 +119,8 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
   <a href="https://vite.dev/" arget="_blank"> <img src="https://tinyurl.com/2xz8coh5" width="60" height="60" alt="vite js "> </a>
    <!-- logo for typescript  -->
   <a href="https://www.typescriptlang.org/" arget="_blank"> <img src="https://tinyurl.com/2xjue2pq" width="60" height="60" alt="typescript "> </a>
+   <!-- logo for shadcn ui  -->
+  <a href="https://ui.shadcn.com/" arget="_blank"> <img src="https://tinyurl.com/28qddcpj" width="60" height="60" alt="Shadcn UI"> </a>
 </p>
 
 <br/><br/>
