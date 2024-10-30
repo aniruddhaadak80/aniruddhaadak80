@@ -148,9 +148,14 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
 
 <!-- My contributions with snake game format -->
 <div align="center" style="padding: 20px;">
-  <h1 color="rgb(127,255,0)">🐍 My Contribution Snack! 🍭</h1>
+  <h1 style="color: rgb(127,255,0);">🐍 My Contribution Snack! 🍭</h1>
   <br>
-  <img alt="snake eating my contributions" width="1200" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img 
+      alt="github contribution grid snake animation" 
+      width="1200" 
+      src="https://raw.githubusercontent.com/aniruddhaadak80/aniruddhaadak80/output/github-contribution-grid-snake-dark.svg" 
+      id="gh-dark-mode-only" 
+  />
 </div>
 
 
