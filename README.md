@@ -1,9 +1,13 @@
+<center>
 <!--Header image -->
-<center><img   src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif" alt = "top gif " height="300px" width="1000px" > </center> 
-<h1 align="center" color="rgb(138,43,226)">Hi 
+  <img   src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif" alt = "top gif " height="300px" width="1000px" > </center> 
+<h1 align="center" color="rgb(138,43,226)">
+<!-- gif of laptop with man -->
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="45" height="50" /> 
+  Hi 
   <picture>  
     <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="45" height="45">
 </picture>
   , I'm Aniruddha Adak</h1>
 
@@ -169,4 +173,8 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
   <a align="center" href="">
   <img align="center" src="https://komarev.com/ghpvc/?username=aniruddhaadak80&label=Thanks+for+visiting"  width=300 height=60 />
 </a>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
