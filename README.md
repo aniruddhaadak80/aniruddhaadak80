@@ -123,15 +123,21 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
   <a href="https://ui.shadcn.com/" arget="_blank"> <img src="https://tinyurl.com/28qddcpj" width="60" height="60" alt="Shadcn UI"> </a>
 </p>
 
-<br/><br/>
+<br/>
 
-<!-- my languages percentages inside repo-->
-<p> <img align="left" width="1500px" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniruddhaadak80&show_icons=true&theme=synthwave&title_color=ff0000&text_color=00ff00&bg_color=000000&locale=en&layout=compact" alt="aniruddhaadak80" /></p>
+
+<!-- My Stats -->
+<h1 align="center" color="rgb(0,117,94)">✨ My Stats 💫</h1>
+
+<!-- my languages percentages inside repo in stats format -->
+<img align="center" width=1500 height=300 src="https://github-readme-stats.vercel.app/api/top-langs?username=aniruddhaadak80&show_icons=true&theme=synthwave&title_color=ff0000&text_color=00ff00&bg_color=000000&locale=en&layout=compact" alt="aniruddhaadak80" />
 
 <!-- my first github stats-->
-<p>&nbsp;<img align="center" width="1200" height="300" src="https://github-readme-stats.vercel.app/api?username=aniruddhaadak80&show_icons=true&theme=radical&title_color=ff00ff&text_color=00ffff&bg_color=060f08&locale=en" alt="aniruddhaadak80" /></p>
+<img align="center" width="1200" height="300" src="https://github-readme-stats.vercel.app/api?username=aniruddhaadak80&show_icons=true&theme=radical&title_color=ff00ff&text_color=00ffff&bg_color=060f08&locale=en" alt="aniruddhaadak80 stats" />
 
-<br/><br/>
+<!-- my second github stats -->
+<img align="center" width="1200" height="300"  src="https://streak-stats.demolab.com/?user=aniruddhaadak80&theme=algolia" alt="aniruddhaadak80 2nd stats"/>
+
 
 <!-- My contributions with snake game format -->
 <div align="center" style="padding: 20px;">
@@ -143,13 +149,6 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
   
  <br/><br/>
 
-<!-- My Stats -->
-<h1 align="center" color="rgb(0,117,94)">✨ My Stats 💫</h1>
-<br>
-<div align=center>
-    <img  width="1200" height="300"  src="https://streak-stats.demolab.com/?user=aniruddhaadak80&theme=algolia" alt="aniruddhaadak80"/>
-  
-</div>
 
 <!-- My Contribution graph-->
 <h1 align='center' color="rgb(132,27,45)"> 📊 My Graph 📈</h1>
