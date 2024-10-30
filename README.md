@@ -90,12 +90,12 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
 <a href="https://docs.astro.build/en/getting-started/" target="_blank" rel="noreferrer"> <img src="https://tinyurl.com/26rzglhb" alt="bootstrap" width="60" height="60" /> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://tinyurl.com/27sek933" alt="bootstrap" width="65" height="55" /> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width=60 height=60/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://tinyurl.com/24x8yzyk" alt="express.js" width="60" height="60"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://tinyurl.com/2y2l43ab" alt="html5" width="60" height="60"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://tinyurl.com/27stwn5o" alt="css3" width="60" height="60"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://tinyurl.com/29qe3jxd" alt="javascript" width="50" height="60"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a>
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="60" height="60"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a>
@@ -113,7 +113,8 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
   <a href="https://tailwindcss.com/" arget="_blank"> <img src="https://tinyurl.com/2cvpylag" width="70" height="70" alt="tailwind css logo"> </a>
     <!-- logo for google project idx -->
   <a href="https://idx.google.com/" arget="_blank"> <img src="https://tinyurl.com/23527gns" width="60" height="60" alt=" google project idx "> </a>
-  
+    <!-- logo for Solid js -->
+  <a href="https://www.solidjs.com/" arget="_blank"> <img src="https://tinyurl.com/24hw9a39" width="60" height="60" alt="Solid js "> </a>
 </p>
 
 <br/><br/>
