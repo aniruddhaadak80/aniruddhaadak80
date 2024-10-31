@@ -91,47 +91,6 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
 </picture>
  <strong> Languages and Tools ⏬ </strong>
 </h2>
-<p align="left"  >
-<a href="https://docs.astro.build/en/getting-started/" target="_blank" rel="noreferrer"> <img src="https://tinyurl.com/26rzglhb" alt="bootstrap" width="60" height="60" /> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://tinyurl.com/27sek933" alt="bootstrap" width="65" height="55" /> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width=60 height=60/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://tinyurl.com/24x8yzyk" alt="express.js" width="60" height="60"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://tinyurl.com/2y2l43ab" alt="html5" width="60" height="60"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://tinyurl.com/27stwn5o" alt="css3" width="60" height="60"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://tinyurl.com/29qe3jxd" alt="javascript" width="50" height="60"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a>
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="60" height="60"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="80"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://tinyurl.com/26qkcv6f" alt="nextjs" width="60" height="60"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.ictdemy.com/images/5728/nodejs_logo.png" alt="nodejs" width="60" height="60"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a> 
-  <!-- logo for vs code  -->
-  <a href="https://code.visualstudio.com/" arget="_blank"> <img src="https://tinyurl.com/29o2nzv9" width="60" height="60" alt="vs code logo"> </a>
-  <!-- logo for kali linux -->
-  <a href="https://www.kali.org/" arget="_blank"> <img src="https://tinyurl.com/23my8mn5" width="60" height="60" alt="kali linux logo"> </a>
-    <!-- logo for qwik js  -->
-  <a href="https://qwik.dev/" arget="_blank"> <img src="https://tinyurl.com/27lktf6z" width="60" height="60" alt="qwik js  logo"> </a>
-   <!-- logo for tailwind css -->
-  <a href="https://tailwindcss.com/" arget="_blank"> <img src="https://tinyurl.com/2cvpylag" width="70" height="70" alt="tailwind css logo"> </a>
-    <!-- logo for google project idx -->
-  <a href="https://idx.google.com/" arget="_blank"> <img src="https://tinyurl.com/23527gns" width="60" height="60" alt=" google project idx "> </a>
-    <!-- logo for Solid js -->
-  <a href="https://www.solidjs.com/" arget="_blank"> <img src="https://tinyurl.com/24hw9a39" width="60" height="60" alt="Solid js "> </a>
-    <!-- logo for vite js  -->
-  <a href="https://vite.dev/" arget="_blank"> <img src="https://tinyurl.com/2xz8coh5" width="60" height="60" alt="vite js "> </a>
-   <!-- logo for typescript  -->
-  <a href="https://www.typescriptlang.org/" arget="_blank"> <img src="https://tinyurl.com/2xjue2pq" width="60" height="60" alt="typescript "> </a>
-   <!-- logo for shadcn ui  -->
-  <a href="https://ui.shadcn.com/" arget="_blank"> <img src="https://tinyurl.com/28qddcpj" width="60" height="60" alt="Shadcn UI"> </a>
-</p>
-
-
-<br/>
-
-
 
 
 <!-- My Tech Profiles -->
@@ -156,9 +115,9 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
     <td><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.ictdemy.com/images/5728/nodejs_logo.png" alt="nodejs" height="60"/> </a></td>
     <td><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="60"/> </a></td>
     <td><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="60"/> </a></td>
+    <td><a href="https://code.visualstudio.com/" target="_blank"> <img src="https://tinyurl.com/29o2nzv9" height="60" alt="vs code logo"> </a></td>
   </tr>
   <tr>
-    <td><a href="https://code.visualstudio.com/" target="_blank"> <img src="https://tinyurl.com/29o2nzv9" height="60" alt="vs code logo"> </a></td>
     <td><a href="https://www.kali.org/" target="_blank"> <img src="https://tinyurl.com/23my8mn5" height="60" alt="kali linux logo"> </a></td>
     <td><a href="https://qwik.dev/" target="_blank"> <img src="https://tinyurl.com/27lktf6z" height="60" alt="qwik js logo"> </a></td>
     <td><a href="https://tailwindcss.com/" target="_blank"> <img src="https://tinyurl.com/2cvpylag" height="60" alt="tailwind css logo"> </a></td>
