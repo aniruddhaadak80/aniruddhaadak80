@@ -58,29 +58,30 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
   <strong> Connect with me  👇</strong>
 </h2>
 
-<!-- My Online  profiles  -->
-<div align="left">
-  <!-- for linkedin  profile  -->
-<a href="https://linkedin.com/in/aniruddha-adak" target="blank"><img align="center" src="https://tinyurl.com/22kdsy5f" alt="linkedin" height="50" /></a>
-  <!-- for coding ninja profile  -->
-  <a href="https://www.naukri.com/code360/profile/aniruddha9"><img src="https://tinyurl.com/25ypvvrs" alt="coding ninja"  height="50" align="center" ></a>
-  <!-- for propeers profile  -->
-  <a href="https://www.propeers.in/profile/aniruddhaadak"><img src="https://tinyurl.com/2d4klw5l"  height="50"  align="center" ></a>
-    <!-- for netlify profile  -->
-  <a href="https://app.netlify.com/teams/aniruddhaadak/sites" target="_blank"><img src="https://shorturl.at/UadGG"  height="50"  align="center" ></a>
-   <!-- for replit profile  -->
-  <a href="https://replit.com/@aniruddhaadak" target="_blank"><img src="https://tinyurl.com/2dz4wno2"  height="50" align="center" ></a>
-    <!-- Gitlab profile  -->
-  <a href="https://gitlab.com/aniruddha-adak"><img src="https://tinyurl.com/2ye896dy"  height="50" align="center" ></a>
-  <!-- for sololearn profile  -->
-  <a href="https://www.sololearn.com/en/profile/30200251"><img src="https://tinyurl.com/2dd849zj"  height="50" align="center" ></a>
-    <!-- twitter profile  -->
-  <a href="https://x.com/aniruddhadak"><img src="https://tinyurl.com/2a6umxb5"  height="50" align="center" ></a>
-<!-- for vercel profile  -->
-  <a href="https://vercel.com/aniruddhaadak80"><img src="https://tinyurl.com/yqxkavg2"  height="50" align="center" ></a>
-<!-- Add more  profiles over this comment -->
-  
-</div>
+
+<!-- My Online Profiles -->
+<table>
+  <tr>
+    <!-- LinkedIn Profile -->
+    <td><a href="https://linkedin.com/in/aniruddha-adak" target="_blank"><img src="https://tinyurl.com/22kdsy5f" alt="LinkedIn" height="50" /></a></td>
+    <!-- Coding Ninja Profile -->
+    <td><a href="https://www.naukri.com/code360/profile/aniruddha9"><img src="https://tinyurl.com/25ypvvrs" alt="Coding Ninja" height="50" /></a></td>
+    <!-- ProPeers Profile -->
+    <td><a href="https://www.propeers.in/profile/aniruddhaadak"><img src="https://tinyurl.com/2d4klw5l" alt="ProPeers" height="50" /></a></td>
+    <!-- Netlify Profile -->
+    <td><a href="https://app.netlify.com/teams/aniruddhaadak/sites" target="_blank"><img src="https://shorturl.at/UadGG" alt="Netlify" height="50" /></a></td>
+    <!-- Replit Profile -->
+    <td><a href="https://replit.com/@aniruddhaadak" target="_blank"><img src="https://tinyurl.com/2dz4wno2" alt="Replit" height="50" /></a></td>
+    <!-- GitLab Profile -->
+    <td><a href="https://gitlab.com/aniruddha-adak"><img src="https://tinyurl.com/2ye896dy" alt="GitLab" height="50" /></a></td>
+    <!-- SoloLearn Profile -->
+    <td><a href="https://www.sololearn.com/en/profile/30200251"><img src="https://tinyurl.com/2dd849zj" alt="SoloLearn" height="50" /></a></td>
+    <!-- Twitter Profile -->
+    <td><a href="https://x.com/aniruddhadak"><img src="https://tinyurl.com/2a6umxb5" alt="Twitter" height="50" /></a></td>
+    <!-- Vercel Profile -->
+    <td><a href="https://vercel.com/aniruddhaadak80"><img src="https://tinyurl.com/yqxkavg2" alt="Vercel" height="50" /></a></td>
+  </tr>
+</table>
 
 <!-- Languages and tools -->
 <h2 align="left" color="rgb(242,0,60)">
