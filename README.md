@@ -137,6 +137,8 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
     <td><a href="https://www.w3schools.com/sql/" target="_blank"> <img src="https://tinyurl.com/25ezkz36" height="60" alt="SQL logo"> </a></td>
     <td><a href="https://graphql.org/" target="_blank"> <img src="https://tinyurl.com/2catoymz" height="60" alt="GraphQL logo "> </a></td>
     <td><a href="https://restfulapi.net/" target="_blank"> <img src="https://tinyurl.com/29tqprt3" height="60" alt="REST API logo "> </a></td>
+    <td><a href="https://www.virtualbox.org/" target="_blank"> <img src="https://tinyurl.com/2ar6kcx9" height="60" alt="Virtual box  logo "> </a></td>
+    <td><a href="https://tails.net/" target="_blank"> <img src="https://tinyurl.com/2a25pvbw" height="60" alt="Tails OS logo "> </a></td>
   </tr>
 </table>
 
