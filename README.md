@@ -126,6 +126,16 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
     <td><a href="https://vite.dev/" target="_blank"> <img src="https://tinyurl.com/2xz8coh5" height="60" alt="vite js"> </a></td>
     <td><a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://tinyurl.com/2xjue2pq" height="60" alt="typescript"> </a></td>
     <td><a href="https://ui.shadcn.com/" target="_blank"> <img src="https://tinyurl.com/28qddcpj" height="60" alt="Shadcn UI"> </a></td>
+    <td><a href="https://www.make.com/" target="_blank"> <img src="https://shorturl.at/oH2Nk" height="60" alt="make.com automation "> </a></td>
+    
+  </tr>
+  <tr>
+    <td><a href="https://redux.js.org/" target="_blank"> <img src="https://shorturl.at/LdNzv" height="60" alt="redux toolkit"> </a></td>
+    <td><a href="https://www.postman.com/" target="_blank"> <img src="https://tinyurl.com/28t9m7pg" height="60" alt="postman api"> </a></td>
+    <td><a href="https://www.canva.com/" target="_blank"> <img src="https://tinyurl.com/2b9a4mxs" height="60" alt="Canva"> </a></td>
+    <td><a href="https://www.docker.com/" target="_blank"> <img src="https://shorturl.at/s0h73" height="60" alt="Docker"> </a></td>
+    
+    
   </tr>
 </table>
 
