@@ -150,13 +150,10 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
 
 <!-- my languages percentages inside repo in stats format -->
 <h2 align="center" color="#AF7AC5">📸 Language Snapshot: My Code Spectrum 🌈</h2>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniruddhaadak80&show_icons=true&theme=synthwave&title_color=ff0000&text_color=00ff00&bg_color=000000&locale=en&layout=compact" alt="aniruddhaadak80" />
+<img align="left" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniruddhaadak80&show_icons=true&theme=synthwave&title_color=ff0000&text_color=00ff00&bg_color=000000&locale=en&layout=compact" alt="aniruddhaadak80" />
 
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aniruddhaadak80&show_icons=true&&theme=synthwave&locale=en" height="180em" /> 
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aniruddhaadak80&show_icons=true&&theme=synthwave&locale=en" height="200em" /> 
 
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aniruddhaadak80&show_icons=true&&theme=radical&locale=en"  height="180em" /> 
-<br> 
-<br>
 
 
 <!-- my first github stats-->
