@@ -150,19 +150,19 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
 
 <!-- my languages percentages inside repo in stats format -->
 <h2 align="center" color="#AF7AC5">📸 Language Snapshot: My Code Spectrum 🌈</h2>
-<img align="left" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniruddhaadak80&show_icons=true&theme=synthwave&title_color=ff0000&text_color=00ff00&bg_color=000000&locale=en&layout=compact" alt="aniruddhaadak80" />
+<img align="left" height="220em" width="500"   src="https://github-readme-stats.vercel.app/api/top-langs?username=aniruddhaadak80&show_icons=true&theme=synthwave&title_color=ff0000&text_color=00ff00&bg_color=000000&locale=en&layout=compact" alt="aniruddhaadak80" />
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aniruddhaadak80&show_icons=true&&theme=synthwave&locale=en" height="200em" /> 
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aniruddhaadak80&show_icons=true&&theme=synthwave&locale=en"  height="220em" /> 
 
 
 
 <!-- my first github stats-->
 <h2 align="center" color="#E74C3C">🌠 GitHub Glory: Stats at a Glance 💥</h2>
-<img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=aniruddhaadak80&show_icons=true&theme=radical&title_color=ff00ff&text_color=00ffff&bg_color=060f08&locale=en" alt="aniruddhaadak80 stats" />
+<img align="center" width="1000" height="230"  src="https://github-readme-stats.vercel.app/api?username=aniruddhaadak80&show_icons=true&theme=radical&title_color=ff00ff&text_color=00ffff&bg_color=060f08&locale=en" alt="aniruddhaadak80 stats" />
 
 <!-- my second github stats -->
 <h2 align="center" color="#F39C12">💪 Commit Streak: Days of Consistency!🔥</h2>
-<img align="center" width="1200" height="300"  src="https://streak-stats.demolab.com/?user=aniruddhaadak80&theme=algolia" alt="aniruddhaadak80 2nd stats"/>
+<img align="center" width="1000" height="230"  src="https://streak-stats.demolab.com/?user=aniruddhaadak80&theme=algolia" alt="aniruddhaadak80 2nd stats"/>
 
 
 <!-- My contributions with snake game format -->
