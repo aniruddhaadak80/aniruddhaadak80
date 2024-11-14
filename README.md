@@ -150,8 +150,9 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
 
 <!-- my languages percentages inside repo in stats format -->
 <h2 align="center" color="#AF7AC5">📸 Language Snapshot: My Code Spectrum 🌈</h2>
+<!-- Most Used Languages  -->
 <img align="left" height="220em"   src="https://github-readme-stats.vercel.app/api/top-langs?username=aniruddhaadak80&show_icons=true&theme=synthwave&title_color=ff0000&text_color=00ff00&bg_color=000000&locale=en&layout=compact" alt="aniruddhaadak80" />
-
+<!-- Top languages by commit -->
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aniruddhaadak80&show_icons=true&&theme=radical&locale=en"  height="220em" /> 
 
 
