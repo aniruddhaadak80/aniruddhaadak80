@@ -13,7 +13,7 @@
 
 <!-- Dynamic gerrting for profile viewers  -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=90&duration=4000&lines=Hi+There!+👋;+I'm+Aniruddha!😊;🅰️+Full-Stack+Developer+|+🤖+AI+Enthusiast+|+🅿️roblem+Solver;+🎉Let's+contribute+together;+Love+❤️+to+work+with+multiple+languages;+👨‍💻Happy+coding;🌞Have+a+nice+day👍;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=90&duration=5000&lines=Hi+There!+👋;+I'm+Aniruddha!😊;🅰️+Full-Stack+Developer+|+🤖+AI+Enthusiast+|+🅿️roblem+Solver;+🎉Let's+contribute+together;+Love+❤️+to+work+with+multiple+programming+languages;+👨‍💻Happy+coding;🌞Have+a+nice+day👍;" />
 </h1>
 
 
