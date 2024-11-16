@@ -77,7 +77,7 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
     <!-- SoloLearn Profile -->
     <td><a href="https://www.sololearn.com/en/profile/30200251"><img src="https://tinyurl.com/2dd849zj" alt="SoloLearn" height="50" /></a></td>
     <!-- Twitter Profile -->
-    <td><a href="https://x.com/aniruddhadak"><img src="https://tinyurl.com/2a6umxb5" alt="Twitter" height="50" /></a></td>
+    <td><a href="https://x.com/aniruddhadak"><img src="https://tinyurl.com/2yprqodo" alt="Twitter" height="50" /></a></td>
     <!-- Vercel Profile -->
     <td><a href="https://vercel.com/aniruddhaadak80"><img src="https://tinyurl.com/yqxkavg2" alt="Vercel" height="50" /></a></td>
   </tr>
