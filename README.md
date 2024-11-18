@@ -17,7 +17,7 @@
 </h1>
 
 
-<h3 align="center" color="green">
+<h2 align="center" color="green">
  <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f339/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f339/512.gif" alt="🌹" width="32" height="32">
@@ -25,10 +25,11 @@
 <strong>  
 Love ❤️ to work with multiple programming languages .
 </strong>
-</h3>
+</h2>
 
 
 <!-- github trophy  -->
+<h1 align="center" color="#e0e019">🏆 My GitHub Trophies </h1>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=aniruddhaadak80&theme=algolia&no-frame=true" alt="aniruddhaadak80" />
@@ -38,7 +39,7 @@ Love ❤️ to work with multiple programming languages .
 
 <img   align="right" src="https://tinyurl.com/28llma7r" alt="programming boy gif"  height="250px" width="400px" >
 
-<h3 color="yellow">
+<h3 color="#16ff13 ">
  <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="34" height="34">
