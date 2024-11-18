@@ -161,7 +161,7 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
 <h3 align="center" color="#32a3bf">😸 My Code Stats 🪄 </h3>
 <img align="center" width="1000" height="230"  src="https://github-readme-stats.vercel.app/api?username=aniruddhaadak80&show_icons=true&theme=radical&title_color=ff00ff&text_color=00ffff&bg_color=060f08&locale=en" alt="aniruddhaadak80 stats" />
 <h3 align="center" color="#ee7312">😻 My Contributions Stats 🔝</h3>
-<img align="center" width="1500" height="300"  src="https://github-contributor-stats.vercel.app/api?username=aniruddhaadak80&limit=5&theme=algolia&combine_all_yearly_contributions=true" />
+<img align="center" width="1500" height="300"  src="https://github-contributor-stats.vercel.app/api?username=aniruddhaadak80&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 
 <!-- my second github stats -->
 <h2 align="center" color="#F39C12">💪 Commit Streak: Days of Consistency!🔥</h2>
