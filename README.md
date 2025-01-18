@@ -196,10 +196,12 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
 [![An image of @aniruddhaadak80's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aniruddhaadak80)](https://holopin.io/@aniruddhaadak80)
 
 <h2 color= "#47de73" align="center"> 🥇 My GitRoll badge  🚀 </h2>
-<a href="https://gitroll.io/profile/uTAxlT2IWgfMF9z8He6UYi0M7uwz1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uTAxlT2IWgfMF9z8He6UYi0M7uwz1?theme=tokyoNight" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/uTAxlT2IWgfMF9z8He6UYi0M7uwz1" target="_blank"><img align="center" width="800" height="300" src="https://gitroll.io/api/badges/profiles/v1/uTAxlT2IWgfMF9z8He6UYi0M7uwz1?theme=solarizedDark" alt="GitRoll Profile Badge"/></a>
 
 
 
+
+<hr/>
 <!-- Greeting profile viewers with numbers  -->
 <p align="center">
   <a align="center" href="">
