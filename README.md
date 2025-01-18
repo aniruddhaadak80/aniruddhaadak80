@@ -120,7 +120,7 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
   </tr>
   <tr>
     <td><a href="https://www.kali.org/" target="_blank"> <img src="https://tinyurl.com/23my8mn5" height="60" alt="kali linux logo"> </a></td>
-    <td><a href="https://qwik.dev/" target="_blank"> <img src="https://tinyurl.com/27lktf6z" height="60" alt="qwik js logo"> </a></td>
+    <td><a href="https://qwik.dev/" target="_blank"> <img src="https://tinyurl.com/22vhcl72" height="60" alt="qwik js logo"> </a></td>
     <td><a href="https://tailwindcss.com/" target="_blank"> <img src="https://tinyurl.com/2cvpylag" height="60" alt="tailwind css logo"> </a></td>
     <td><a href="https://idx.google.com/" target="_blank"> <img src="https://tinyurl.com/23527gns" height="60" alt="google project idx"> </a></td>
     <td><a href="https://www.solidjs.com/" target="_blank"> <img src="https://tinyurl.com/24hw9a39" height="60" alt="Solid js"> </a></td>
@@ -131,7 +131,7 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
     
   </tr>
   <tr>
-    <td><a href="https://redux.js.org/" target="_blank"> <img src="https://tinyurl.com/2yjvzlu4" height="60" alt="redux toolkit"> </a></td>
+    <td><a href="https://redux.js.org/" target="_blank"> <img src="https://tinyurl.com/2y4wrcsk" height="60" alt="redux toolkit"> </a></td>
     <td><a href="https://www.postman.com/" target="_blank"> <img src="https://tinyurl.com/2bsse2jm" height="60" alt="postman api"> </a></td>
     <td><a href="https://www.canva.com/" target="_blank"> <img src="https://tinyurl.com/2b9a4mxs" height="60" alt="Canva"> </a></td>
     <td><a href="https://www.docker.com/" target="_blank"> <img src="https://shorturl.at/s0h73" height="60" alt="Docker"> </a></td>
