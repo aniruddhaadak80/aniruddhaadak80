@@ -131,8 +131,8 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
     
   </tr>
   <tr>
-    <td><a href="https://redux.js.org/" target="_blank"> <img src="https://shorturl.at/LdNzv" height="60" alt="redux toolkit"> </a></td>
-    <td><a href="https://www.postman.com/" target="_blank"> <img src="https://tinyurl.com/28t9m7pg" height="60" alt="postman api"> </a></td>
+    <td><a href="https://redux.js.org/" target="_blank"> <img src="https://tinyurl.com/2yjvzlu4" height="60" alt="redux toolkit"> </a></td>
+    <td><a href="https://www.postman.com/" target="_blank"> <img src="https://tinyurl.com/24eo78t6" height="60" alt="postman api"> </a></td>
     <td><a href="https://www.canva.com/" target="_blank"> <img src="https://tinyurl.com/2b9a4mxs" height="60" alt="Canva"> </a></td>
     <td><a href="https://www.docker.com/" target="_blank"> <img src="https://shorturl.at/s0h73" height="60" alt="Docker"> </a></td>
     <td><a href="https://www.w3schools.com/sql/" target="_blank"> <img src="https://tinyurl.com/25ezkz36" height="60" alt="SQL logo"> </a></td>
