@@ -63,6 +63,8 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
 <!-- My Online Profiles -->
 <table>
   <tr>
+     <!-- Linktree Profile -->
+    <td><a href="https://linktr.ee/aniruddhadak" target="_blank"><img src="https://tinyurl.com/25hu4x9r" alt="Linktree" height="50" /></a></td>
     <!-- LinkedIn Profile -->
     <td><a href="https://linkedin.com/in/aniruddha-adak" target="_blank"><img src="https://tinyurl.com/22kdsy5f" alt="LinkedIn" height="50" /></a></td>
     <!-- Coding Ninja Profile -->
@@ -196,7 +198,7 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
 [![An image of @aniruddhaadak80's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aniruddhaadak80)](https://holopin.io/@aniruddhaadak80)
 
 <h2 color= "#47de73" align="center"> 🥇 My GitRoll badge  🚀 </h2>
-<a href="https://gitroll.io/profile/uTAxlT2IWgfMF9z8He6UYi0M7uwz1" target="_blank"><img align="center" width="800" height="300" src="https://gitroll.io/api/badges/profiles/v1/uTAxlT2IWgfMF9z8He6UYi0M7uwz1?theme=solarizedDark" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/uTAxlT2IWgfMF9z8He6UYi0M7uwz1" target="_blank"><img align="center" width="960" height="330" src="https://gitroll.io/api/badges/profiles/v1/uTAxlT2IWgfMF9z8He6UYi0M7uwz1?theme=solarizedDark" alt="GitRoll Profile Badge"/></a>
 
 
 
@@ -205,7 +207,7 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
 <!-- Greeting profile viewers with numbers  -->
 <p align="center">
   <a align="center" href="">
-  <img align="center" src="https://komarev.com/ghpvc/?username=aniruddhaadak80&label=Thanks+for+visiting"  width=300 height=45 />
+  <img align="center" src="https://komarev.com/ghpvc/?username=aniruddhaadak80&label=Thanks+for+visiting"  width=360 height=45 />
 </a>
 </p>
 
