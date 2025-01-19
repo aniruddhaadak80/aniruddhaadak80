@@ -55,9 +55,9 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
 <h2 color="rgb(0,206,209)" > <img src="https://tinyurl.com/22k837wc" alt="✅" width="30" > Mail or Message me  <img src="https://tinyurl.com/23tagvde" alt="down arrow gif"   height="30" > </h2>
 <table>
   <tr>
-<td> <a href="mailto:aniruddhaadak80@gmail.com"> <img src="https://tinyurl.com/26ebg9mq"   height="45" width="45"  alt="mail" > </a> </td>
-<td><a href="https://t.me/aniruddhaadak"> <img src="https://tinyurl.com/236jh9nf"   height="45" width="45"  alt="Telegram" ></a></td>
-<td><a href="https://wa.me/+917029155691?"><img src="https://tinyurl.com/2axx8cdh" height="45" width="45" alt="WhatsApp"></a></td>
+<td> <a href="mailto:aniruddhaadak80@gmail.com"> <img src="https://tinyurl.com/26ebg9mq"   height="45" width="45"  alt="mail" > </a> <br/> Gmail </td>
+<td><a href="https://t.me/aniruddhaadak"> <img src="https://tinyurl.com/236jh9nf"   height="45" width="45"  alt="Telegram" ></a> <br/> T-gram </td>
+<td><a href="https://wa.me/+917029155691?text=Hi%2C%20I%20am%20Aniruddha%2C%20just%20drop%20a%20message."><img src="https://tinyurl.com/2axx8cdh" height="45" width="45" alt="WhatsApp"></a> <br/> W-App </td>
   </tr>
 </table>
 
