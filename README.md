@@ -49,12 +49,15 @@ Love ❤️ to work with multiple programming languages .
 <h2 color="rgb(164,0,0)" ><img src="https://tinyurl.com/288bbztv" height="30" > 🤔💭 Ask me about ⬇️ </h2> <h3 color="rgb(80,125,42)"> <strong><em> Next.js , React.js , Typescript , 
 Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong> </h3>
 
-<!-- Mail me gifs and text -->
+
+
+<!-- Contact me gifs and text -->
 <h2 color="rgb(0,206,209)" > <img src="https://tinyurl.com/22k837wc" alt="✅" width="30" > Mail or Message me  <img src="https://tinyurl.com/23tagvde" alt="down arrow gif"   height="30" > </h2>
 <table>
   <tr>
 <td> <a href="mailto:aniruddhaadak80@gmail.com"> <img src="https://tinyurl.com/26ebg9mq"   height="45" width="45"  alt="mail" > </a> </td>
 <td><a href="https://t.me/aniruddhaadak"> <img src="https://tinyurl.com/236jh9nf"   height="45" width="45"  alt="Telegram" ></a></td>
+<td><a href="https://wa.me/+917029155691?"><img src="https://tinyurl.com/2axx8cdh" height="45" width="45" alt="WhatsApp"></a></td>
   </tr>
 </table>
 
