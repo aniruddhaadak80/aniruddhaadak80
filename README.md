@@ -50,8 +50,14 @@ Love ❤️ to work with multiple programming languages .
 Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong> </h3>
 
 <!-- Mail me gifs and text -->
-<h2 color="rgb(0,206,209)" > <img src="https://tinyurl.com/22k837wc" alt="✅" width="30" > Mail me  <img src="https://tinyurl.com/23tagvde" alt="down arrow gif"   height="30" > </h2>
-<a href="mailto:aniruddhaadak80@gmail.com"> <img src="https://tinyurl.com/26ebg9mq"   height="30" width="30"  alt="mail" ></a>
+<h2 color="rgb(0,206,209)" > <img src="https://tinyurl.com/22k837wc" alt="✅" width="30" > Mail or Message me  <img src="https://tinyurl.com/23tagvde" alt="down arrow gif"   height="30" > </h2>
+<table>
+  <tr>
+<td> <a href="mailto:aniruddhaadak80@gmail.com"> <img src="https://tinyurl.com/26ebg9mq"   height="30" width="30"  alt="mail" > </a> </td>
+<td><a href="https://t.me/aniruddhaadak"> <img src="https://tinyurl.com/236jh9nf"   height="30" width="30"  alt="Telegram" ></a></td>
+  </tr>
+</table>
+
 
 <!-- connect me animated logo  with connect with me text   -->
 <h2 align="left" color="rgb(139,0,139)">
