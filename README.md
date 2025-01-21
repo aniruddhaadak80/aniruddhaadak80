@@ -73,7 +73,7 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
 <table>
   <tr>
      <!-- Linktree Profile -->
-    <td><a href="https://linktr.ee/aniruddhadak" target="_blank"><img src="https://tinyurl.com/25hu4x9r" alt="Linktree" height="50" /></a></td>
+    <td><a href="https://linktr.ee/aniruddha.adak" target="_blank"><img src="https://tinyurl.com/25hu4x9r" alt="Linktree" height="50" /></a></td>
     <!-- LinkedIn Profile -->
     <td><a href="https://linkedin.com/in/aniruddha-adak" target="_blank"><img src="https://tinyurl.com/22kdsy5f" alt="LinkedIn" height="50" /></a></td>
     <!-- Coding Ninja Profile -->
