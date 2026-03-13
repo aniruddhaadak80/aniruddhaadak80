@@ -32,7 +32,7 @@ Love ❤️ to work with multiple programming languages .
 <h1 align="center" color="#e0e019">🏆 My GitHub Trophies </h1>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aniruddhaadak80&theme=algolia&no-frame=true" alt="aniruddhaadak80" />
+    <img src="https://github-profile-trophy.vercel.app/?username=aniruddhaadak80&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="aniruddhaadak80 trophies" />
   </a>
 </p>
 
@@ -172,7 +172,7 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
 <h3 align="center" color="#32a3bf">😸 My Code Stats 🪄 </h3>
 <img align="center" width="1000" height="230"  src="https://github-readme-stats.vercel.app/api?username=aniruddhaadak80&show_icons=true&theme=radical&title_color=ff00ff&text_color=00ffff&bg_color=060f08&locale=en" alt="aniruddhaadak80 stats" />
 <h3 align="center" color="#ee7312">😻 My Contributions Stats 🔝</h3>
-<img align="center" width="1500" height="300"  src="https://github-contributor-stats.vercel.app/api?username=aniruddhaadak80&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+<img align="center" width="1000" height="260" src="https://github-readme-stats.vercel.app/api?username=aniruddhaadak80&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=github" alt="aniruddhaadak80 contribution stats" />
 
 <!-- my second github stats -->
 <h2 align="center" color="#F39C12">💪 Commit Streak: Days of Consistency!🔥</h2>
