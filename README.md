@@ -116,7 +116,7 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
     <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="60"/> </a></td>
     <td><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://tinyurl.com/2y2l43ab" alt="html5" height="60"/> </a></td>
     <td><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://tinyurl.com/27stwn5o" alt="css3" height="60"/> </a></td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://tinyurl.com/29qe3jxd" alt="javascript" height="60"/> </a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="javascript" height="65"/> </a></td>
   </tr>
   <tr>
     <td><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="60"/> </a></td>
@@ -124,7 +124,7 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
     <td><a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" height="60"/> </a></td>
     <td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="60"/> </a></td>
     <td><a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://tinyurl.com/26qkcv6f" alt="nextjs" height="60"/> </a></td>
-    <td><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.ictdemy.com/images/5728/nodejs_logo.png" alt="nodejs" height="60"/> </a></td>
+    <td><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="nodejs" height="60"/> </a></td>
     <td><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="60"/> </a></td>
     <td><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="60"/> </a></td>
     <td><a href="https://code.visualstudio.com/" target="_blank"> <img src="https://tinyurl.com/29o2nzv9" height="60" alt="vs code logo"> </a></td>
@@ -147,9 +147,9 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
     <td><a href="https://www.canva.com/" target="_blank"> <img src="https://tinyurl.com/2b9a4mxs" height="60" alt="Canva"> </a></td>
     <td><a href="https://www.docker.com/" target="_blank"> <img src="https://shorturl.at/s0h73" height="60" alt="Docker"> </a></td>
     <td><a href="https://www.w3schools.com/sql/" target="_blank"> <img src="https://tinyurl.com/25ezkz36" height="60" alt="SQL logo"> </a></td>
-    <td><a href="https://graphql.org/" target="_blank"> <img src="https://tinyurl.com/2catoymz" height="60" alt="GraphQL logo "> </a></td>
+    <td><a href="https://graphql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/960px-GraphQL_Logo.svg.png" height="60" alt="GraphQL logo "> </a></td>
     <td><a href="https://restfulapi.net/" target="_blank"> <img src="https://tinyurl.com/29tqprt3" height="60" alt="REST API logo "> </a></td>
-    <td><a href="https://www.virtualbox.org/" target="_blank"> <img src="https://tinyurl.com/2ar6kcx9" height="60" alt="Virtual box  logo "> </a></td>
+    <td><a href="https://www.virtualbox.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Virtualbox_logo.svg/250px-Virtualbox_logo.svg.png" height="60" alt="Virtual box  logo "> </a></td>
     <td><a href="https://tails.net/" target="_blank"> <img src="https://tinyurl.com/2a25pvbw" height="60" alt="Tails OS logo "> </a></td>
   </tr>
 </table>
