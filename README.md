@@ -31,8 +31,8 @@ Love ❤️ to work with multiple programming languages .
 <!-- github trophy  -->
 <h1 align="center" color="#e0e019">🏆 My GitHub Trophies </h1>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aniruddhaadak80&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="aniruddhaadak80 trophies" />
+  <a href="https://github-profile-repo.vercel.app/?username=aniruddhaadak80&theme=radical">
+    <img src="https://github-profile-repo.vercel.app/?username=aniruddhaadak80&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="aniruddhaadak80 trophies" />
   </a>
 </p>
 
