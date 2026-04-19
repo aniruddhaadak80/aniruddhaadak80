@@ -3,7 +3,7 @@
   <img   src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif" alt = "top gif " height="300px" width="1000px" > </center> 
 <h1 align="center" color="rgb(138,43,226)">
 <!-- gif of laptop with man -->
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="50" height="50" /> 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist"  height="50" /> 
   Hi 
   <picture>  
     <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
