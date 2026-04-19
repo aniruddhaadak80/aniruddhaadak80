@@ -1,6 +1,5 @@
-<center>
 <!--Header image -->
-  <img   src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif" alt = "top gif " height="300px" width="1000px" > </center> 
+ <img   src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif" alt = "top gif " height="300px" width="1000px" > </center> 
 <h1 align="center" color="rgb(138,43,226)">
 <!-- gif of laptop with man -->
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="50" height="50" /> 
@@ -163,15 +162,27 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
 
 <table>
   <tr>
-    <td><a href="https://gemini.google.com" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-gemini-icon.png" alt="Gemini" height="50" /></a></td>
-    <td><a href="https://claude.ai" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg" alt="Claude" height="50" /></a></td>
-    <td><a href="https://chatgpt.com" target="_blank"><img src="https://freelogopng.com/images/all_img/1681039084chatgpt-icon.png" alt="ChatGPT" height="50" /></a></td>
-    <td><a href="https://meta.ai/" target="_blank"><img src="https://github.com/user-attachments/assets/53040065-383d-404a-970f-352b2cb3744a" alt="Meta AI" height="50" /> </a></td>
-    <td><a href="https://www.perplexity.ai/comet" target="_blank"><img src="https://crystalpng.com/wp-content/uploads/2025/10/Perplexity-comet-logo.png" alt="Comet" height="50" /></a></td>
-    <td><a href="https://manus.im" target="_blank"><img src="https://crystalpng.com/wp-content/uploads/2025/10/Manus-AI-Logo.png" alt="Manus" height="50" /></a></td>
-    <td><a href="https://www.genspark.ai" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/genspark-ai-icon.png" alt="Genspark" height="50" /></a></td>
-    <td><a href="https://www.perplexity.ai" target="_blank"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/perplexity-color.png" alt="Perplexity" height="50" /></a></td>
-    <td><a href="https://antigravity.google/" target="_blank"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/antigravity-color.png" alt="Antigravity" height="50" /></a></td>
+    <td align="center"><a href="https://gemini.google.com" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-gemini-icon.png" alt="Gemini" height="50" width="50" /></a><br>Gemini</td>
+    <td align="center"><a href="https://claude.ai" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg" alt="Claude" height="50" width="50" /></a><br>Claude</td>
+    <td align="center"><a href="https://chatgpt.com" target="_blank"><img src="https://freelogopng.com/images/all_img/1681039084chatgpt-icon.png" alt="ChatGPT" height="50" width="50" /></a><br>ChatGPT</td>
+    <td align="center"><a href="https://meta.ai/" target="_blank"><img src="https://github.com/user-attachments/assets/53040065-383d-404a-970f-352b2cb3744a" alt="Meta AI" height="50" width="50" /></a><br>Meta AI</td>
+    <td align="center"><a href="https://www.perplexity.ai/comet" target="_blank"><img src="https://crystalpng.com/wp-content/uploads/2025/10/Perplexity-comet-logo.png" alt="Comet" height="50" width="50" /></a><br>Comet</td>
+    <td align="center"><a href="https://manus.im" target="_blank"><img src="https://crystalpng.com/wp-content/uploads/2025/10/Manus-AI-Logo.png" alt="Manus" height="50" width="50" /></a><br>Manus</td>
+    <td align="center"><a href="https://www.genspark.ai" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/genspark-ai-icon.png" alt="Genspark" height="50" width="50" /></a><br>Genspark</td>
+    <td align="center"><a href="https://www.perplexity.ai" target="_blank"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/perplexity-color.png" alt="Perplexity" height="50" width="50" /></a><br>Perplexity</td>
+    <td align="center"><a href="https://antigravity.google/" target="_blank"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/antigravity-color.png" alt="Antigravity" height="50" width="50" /></a><br>Antigravity</td>
+  </tr>
+
+  <tr>
+    <td align="center"><a href="https://ollama.com" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ollama.svg" alt="Ollama" height="50" width="50" /></a><br>Ollama</td>
+    <td align="center"><a href="https://mistral.ai" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mistralai.svg" alt="Mistral AI" height="50" width="50" /></a><br>Mistral</td>
+    <td align="center"><a href="https://www.deepseek.com" target="_blank"><img src="" alt="DeepSeek" height="50" width="50" /></a><br>DeepSeek</td>
+    <td align="center"><a href="https://grok.com" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" alt="Grok" height="50" width="50" /></a><br>Grok</td>
+    <td align="center"><a href="https://qwenlm.ai" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qwen.svg" alt="Qwen" height="50" width="50" /></a><br>Qwen</td>
+    <td align="center"><a href="https://www.kimi.com" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/moonrepo.svg" alt="Kimi" height="50" width="50" /></a><br>Kimi</td>
+    <td align="center"><a href="https://huggingface.co" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" alt="Hugging Face" height="50" width="50" /></a><br>HF</td>
+    <td align="center"><a href="https://github.com/features/copilot" target="_blank"><img src="https://img.icons8.com/3d-fluency/512/github-copilot.png" alt="GitHub Copilot" height="50" width="50" /></a><br>Copilot</td>
+    <td align="center"><a href="https://www.coderabbit.ai/" target="_blank"><img src="https://avatars.githubusercontent.com/u/132028505?s=280&v=4" alt="CodeRabbit" height="50" width="50" /></a><br>CodeRabbit</td>
   </tr>
 </table>
 
