@@ -155,7 +155,25 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
 </table>
 
 
+<!-- favourite ai tools animated heading -->
+<h2 align="left" color="rgb(139,0,139)">
+  <img src="https://img.freepik.com/premium-vector/ai-banner-concept-digital-style-ideas-design-element-internet-technology_208588-4205.jpg?semt=ais_hybrid&w=740&q=80" height="34" align="center">
+  <strong> Favourite AI Tools & AI Agents 👇</strong>
+</h2>
 
+<table>
+  <tr>
+    <td><a href="https://gemini.google.com" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-gemini-icon.png" alt="Gemini" height="50" /></a></td>
+    <td><a href="https://claude.ai" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg" alt="Claude" height="50" /></a></td>
+    <td><a href="https://chatgpt.com" target="_blank"><img src="https://freelogopng.com/images/all_img/1681039084chatgpt-icon.png" alt="ChatGPT" height="50" /></a></td>
+    <td><a href="https://meta.ai/" target="_blank"><img src="https://github.com/user-attachments/assets/53040065-383d-404a-970f-352b2cb3744a" alt="Meta AI" height="50" /> </a></td>
+    <td><a href="https://www.perplexity.ai/comet" target="_blank"><img src="https://crystalpng.com/wp-content/uploads/2025/10/Perplexity-comet-logo.png" alt="Comet" height="50" /></a></td>
+    <td><a href="https://manus.im" target="_blank"><img src="https://crystalpng.com/wp-content/uploads/2025/10/Manus-AI-Logo.png" alt="Manus" height="50" /></a></td>
+    <td><a href="https://www.genspark.ai" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/genspark-ai-icon.png" alt="Genspark" height="50" /></a></td>
+    <td><a href="https://www.perplexity.ai" target="_blank"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/perplexity-color.png" alt="Perplexity" height="50" /></a></td>
+    <td><a href="https://antigravity.google/" target="_blank"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/antigravity-color.png" alt="Antigravity" height="50" /></a></td>
+  </tr>
+</table>
 
 <!-- My Stats -->
 <h1 align="center" color="rgb(0,117,94)">✨ My GitHub Highlights 💫 </h1>
