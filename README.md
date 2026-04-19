@@ -1,5 +1,6 @@
+<center>
 <!--Header image -->
- <img   src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif" alt = "top gif " height="300px" width="1000px" > </center> 
+  <img   src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif" alt = "top gif " height="300px" width="1000px" > </center> 
 <h1 align="center" color="rgb(138,43,226)">
 <!-- gif of laptop with man -->
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="50" height="50" /> 
@@ -174,13 +175,13 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
   </tr>
 
   <tr>
-    <td align="center"><a href="https://ollama.com" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ollama.svg" alt="Ollama" height="50" width="50" /></a><br>Ollama</td>
-    <td align="center"><a href="https://mistral.ai" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mistralai.svg" alt="Mistral AI" height="50" width="50" /></a><br>Mistral</td>
-    <td align="center"><a href="https://www.deepseek.com" target="_blank"><img src="" alt="DeepSeek" height="50" width="50" /></a><br>DeepSeek</td>
-    <td align="center"><a href="https://grok.com" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" alt="Grok" height="50" width="50" /></a><br>Grok</td>
-    <td align="center"><a href="https://qwenlm.ai" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qwen.svg" alt="Qwen" height="50" width="50" /></a><br>Qwen</td>
-    <td align="center"><a href="https://www.kimi.com" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/moonrepo.svg" alt="Kimi" height="50" width="50" /></a><br>Kimi</td>
-    <td align="center"><a href="https://huggingface.co" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" alt="Hugging Face" height="50" width="50" /></a><br>HF</td>
+    <td align="center"><a href="https://ollama.com" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ollama-icon.png" alt="Ollama" height="50" width="50" /></a><br>Ollama</td>
+    <td align="center"><a href="https://mistral.ai" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_DaHGtoqrk8iozc9mWeQ8_1RXcxTlRI_dWA&s" alt="Mistral AI" height="50" width="50" /></a><br>Mistral</td>
+    <td align="center"><a href="https://www.deepseek.com" target="_blank"><img src="https://crystalpng.com/wp-content/uploads/2025/01/deepseek-logo-01.png" alt="DeepSeek" height="50" width="50" /></a><br>DeepSeek</td>
+    <td align="center"><a href="https://grok.com" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/grok-ai-icon.png" alt="Grok" height="50" width="50" /></a><br>Grok</td>
+    <td align="center"><a href="https://qwenlm.ai" target="_blank"><img src="https://vectorseek.com/wp-content/uploads/2025/01/Qwen-Ai-Logo-PNG-Vector.png" alt="Qwen" height="50" width="50" /></a><br>Qwen</td>
+    <td align="center"><a href="https://www.kimi.com" target="_blank"><img src="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/kimi-ai-app-icon.png" alt="Kimi" height="50" width="50" /></a><br>Kimi</td>
+    <td align="center"><a href="https://huggingface.co" target="_blank"><img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Hugging Face" height="50" width="50" /></a><br>HF</td>
     <td align="center"><a href="https://github.com/features/copilot" target="_blank"><img src="https://img.icons8.com/3d-fluency/512/github-copilot.png" alt="GitHub Copilot" height="50" width="50" /></a><br>Copilot</td>
     <td align="center"><a href="https://www.coderabbit.ai/" target="_blank"><img src="https://avatars.githubusercontent.com/u/132028505?s=280&v=4" alt="CodeRabbit" height="50" width="50" /></a><br>CodeRabbit</td>
   </tr>
