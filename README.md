@@ -177,7 +177,7 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
   <tr>
     <td align="center"><a href="https://ollama.com" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ollama-icon.png" alt="Ollama" height="50" width="50" /></a><br>Ollama</td>
     <td align="center"><a href="https://mistral.ai" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_DaHGtoqrk8iozc9mWeQ8_1RXcxTlRI_dWA&s" alt="Mistral AI" height="50" width="50" /></a><br>Mistral</td>
-    <td align="center"><a href="https://www.deepseek.com" target="_blank"><img src="https://crystalpng.com/wp-content/uploads/2025/01/deepseek-logo-01.png" alt="DeepSeek" height="50" width="50" /></a><br>DeepSeek</td>
+    <td align="center"><a href="https://chat.deepseek.com/" target="_blank"><img src="https://crystalpng.com/wp-content/uploads/2025/01/deepseek-logo-01.png" alt="DeepSeek" height="50" width="50" /></a><br>DeepSeek</td>
     <td align="center"><a href="https://grok.com" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/grok-ai-icon.png" alt="Grok" height="50" width="50" /></a><br>Grok</td>
     <td align="center"><a href="https://qwenlm.ai" target="_blank"><img src="https://vectorseek.com/wp-content/uploads/2025/01/Qwen-Ai-Logo-PNG-Vector.png" alt="Qwen" height="50" width="50" /></a><br>Qwen</td>
     <td align="center"><a href="https://www.kimi.com" target="_blank"><img src="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/kimi-ai-app-icon.png" alt="Kimi" height="50" width="50" /></a><br>Kimi</td>
