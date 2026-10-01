@@ -100,14 +100,11 @@ def collect(login, token):
             repositoryTopics(first: 10) { nodes { topic { name } } }
           }
         }
-        gists { totalCount }
       }
     }
     """
-    gist_count = 0
     while True:
         payload = graphql(query, {"login": login, "cursor": cursor}, token)["user"]
-        gist_count = (payload.get("gists") or {}).get("totalCount", 0)
         data = payload["repositories"]
         repos.extend(data["nodes"])
         if not data["pageInfo"]["hasNextPage"]:
@@ -157,6 +154,23 @@ def collect(login, token):
     issues_closed = safe(lambda: search_count(token, f"is:issue is:closed {author}"))
     reviews = safe(lambda: search_count(token, f"is:pr reviewed-by:{login} -author:{login}"))
 
+    def affiliation_counts():
+        q = """
+        query($login: String!) {
+          user(login: $login) {
+            organizations { totalCount }
+            collaboratorRepos: repositories(affiliations: [COLLABORATOR]) { totalCount }
+          }
+        }
+        """
+        d = graphql(q, {"login": login}, token)["user"]
+        return {
+            "orgs": d["organizations"]["totalCount"],
+            "collaborator_repos": d["collaboratorRepos"]["totalCount"],
+        }
+
+    extra = safe(affiliation_counts, {"orgs": 0, "collaborator_repos": 0})
+
     return {
         "repos": user["public_repos"],
         "own_repos": len([r for r in repos if not r["isFork"]]),
@@ -175,7 +189,8 @@ def collect(login, token):
         "issues": issues,
         "issues_closed": issues_closed,
         "reviews": reviews,
-        "gists": gist_count,
+        "orgs": extra["orgs"],
+        "collaborator_repos": extra["collaborator_repos"],
     }
 
 
@@ -206,7 +221,8 @@ def build(login, d):
         a("Trendsetter", d["topics"], (60, 25, 8), "repo topics"),
         a("Explorer", d["new_this_year"], (25, 10, 3), f"repos in {datetime.now(timezone.utc).year}"),
         a("Veteran", d["age_years"], (4, 3, 2), "account age (years)"),
-        a("Gister", d["gists"], (20, 8, 2), "public gists"),
+        a("Collaborator", d["collaborator_repos"], (25, 10, 3), "repos w/ push access"),
+        a("Org Member", d["orgs"], (5, 3, 1), "organizations"),
     ]
 
     unlocked = sum(1 for i in items if i["rank"] != "X")
