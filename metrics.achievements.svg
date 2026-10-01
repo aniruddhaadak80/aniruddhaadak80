@@ -1,30 +1,131 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="60" class="">
-    <defs>
-        <style/>
-    </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}#metrics-end{width:100%}</style>
-    <style/>
-    <foreignObject x="0" y="0" width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
-            <section>
-                <h2 class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                        <path fill-rule="evenodd" d="M3.217 6.962A3.75 3.75 0 010 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864a1.57 1.57 0 011.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 01-3.217 3.712 5.014 5.014 0 01-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 110 1.5H2.75a.75.75 0 010-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568a1.03 1.03 0 00.373-.227c.084-.085.109-.153.114-.204l.144-1.446a5.014 5.014 0 01-2.77-3.117zM3 2.5H1.75a.25.25 0 00-.25.25v.5c0 .98.626 1.813 1.5 2.122V2.5zm4.457 7.97l-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.764.764 0 00-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.763.763 0 00-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.052 5.052 0 01-1.087 0zM13 5.373V2.5h1.25a.25.25 0 01.25.25v.5A2.25 2.25 0 0113 5.372zM4.5 1.568c0-.037.03-.068.068-.068h6.864c.037 0 .068.03.068.068V5.5a3.5 3.5 0 11-7 0V1.568z"/>
-                    </svg>
-                    Achievements
-                </h2>
-                <div class="row">
-                    <section class="achievements  largeable-flex-wrap">
-                        <div class="field error">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"/>
-                            </svg>
-                            Unexpected error
-                        </div>
-                    </section>
-                </div>
-            </section>
-        </div>
-        <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
-    </foreignObject>
+<svg xmlns="http://www.w3.org/2000/svg" width="868" height="574" viewBox="0 0 868 574" role="img" aria-label="GitHub achievements for aniruddhaadak80">
+<defs><linearGradient id='hd' x1='0' y1='0' x2='1' y2='0'><stop offset='0%' stop-color='#161b22'/><stop offset='100%' stop-color='#0d1117'/></linearGradient></defs>
+<rect width="868" height="574" rx="14" fill="#0d1117"/>
+<rect x="1" y="1" width="866" height="572" rx="14" fill="none" stroke="#30363d"/>
+<rect x="1" y="1" width="866" height="64" rx="13" fill="url(#hd)"/>
+<text x="24" y="34" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="19" font-weight="700" fill="#e6edf3">🏆 Achievements</text>
+<text x="24" y="55" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="12" fill="#8b949e">14/15 unlocked · 44 stars · 68 followers · 150 repos</text>
+<text x="844" y="34" text-anchor="end" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="13" font-weight="700" fill="#FFD576">14 at tier B+</text>
+<text x="844" y="54" text-anchor="end" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="12" fill="#8b949e">14/15 unlocked</text>
+<g opacity="1">
+<rect x="16" y="74" width="268" height="74" rx="10" fill="#161b22" stroke="#30363d"/>
+<rect x="16" y="74" width="4" height="74" rx="2" fill="#EB355E"/>
+<text x="32" y="104" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="15" font-weight="700" fill="#e6edf3">Developer</text>
+<text x="32" y="124" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="12" fill="#8b949e">150 · public repos</text>
+<rect x="242" y="88" width="30" height="24" rx="12" fill="#731237" stroke="#EB355E"/>
+<text x="257" y="105" text-anchor="middle" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="13" font-weight="800" fill="#EB355E">S</text>
+</g>
+<g opacity="1">
+<rect x="300" y="74" width="268" height="74" rx="10" fill="#161b22" stroke="#30363d"/>
+<rect x="300" y="74" width="4" height="74" rx="2" fill="#7D6CFF"/>
+<text x="316" y="104" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="15" font-weight="700" fill="#e6edf3">Stargazer</text>
+<text x="316" y="124" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="12" fill="#8b949e">44 · stars earned</text>
+<rect x="526" y="88" width="30" height="24" rx="12" fill="#B2A8FF" stroke="#7D6CFF"/>
+<text x="541" y="105" text-anchor="middle" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="13" font-weight="800" fill="#7D6CFF">B</text>
+</g>
+<g opacity="1">
+<rect x="584" y="74" width="268" height="74" rx="10" fill="#161b22" stroke="#30363d"/>
+<rect x="584" y="74" width="4" height="74" rx="2" fill="#7D6CFF"/>
+<text x="600" y="104" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="15" font-weight="700" fill="#e6edf3">Forker</text>
+<text x="600" y="124" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="12" fill="#8b949e">21 · forks received</text>
+<rect x="810" y="88" width="30" height="24" rx="12" fill="#B2A8FF" stroke="#7D6CFF"/>
+<text x="825" y="105" text-anchor="middle" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="13" font-weight="800" fill="#7D6CFF">B</text>
+</g>
+<g opacity="1">
+<rect x="16" y="164" width="268" height="74" rx="10" fill="#161b22" stroke="#30363d"/>
+<rect x="16" y="164" width="4" height="74" rx="2" fill="#7D6CFF"/>
+<text x="32" y="194" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="15" font-weight="700" fill="#e6edf3">Influencer</text>
+<text x="32" y="214" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="12" fill="#8b949e">68 · followers</text>
+<rect x="242" y="178" width="30" height="24" rx="12" fill="#B2A8FF" stroke="#7D6CFF"/>
+<text x="257" y="195" text-anchor="middle" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="13" font-weight="800" fill="#7D6CFF">B</text>
+</g>
+<g opacity="1">
+<rect x="300" y="164" width="268" height="74" rx="10" fill="#161b22" stroke="#30363d"/>
+<rect x="300" y="164" width="4" height="74" rx="2" fill="#EB355E"/>
+<text x="316" y="194" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="15" font-weight="700" fill="#e6edf3">Octonaut</text>
+<text x="316" y="214" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="12" fill="#8b949e">1,892 · issues opened</text>
+<rect x="526" y="178" width="30" height="24" rx="12" fill="#731237" stroke="#EB355E"/>
+<text x="541" y="195" text-anchor="middle" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="13" font-weight="800" fill="#EB355E">S</text>
+</g>
+<g opacity="1">
+<rect x="584" y="164" width="268" height="74" rx="10" fill="#161b22" stroke="#30363d"/>
+<rect x="584" y="164" width="4" height="74" rx="2" fill="#EB355E"/>
+<text x="600" y="194" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="15" font-weight="700" fill="#e6edf3">Issue Solver</text>
+<text x="600" y="214" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="12" fill="#8b949e">1,286 · issues closed</text>
+<rect x="810" y="178" width="30" height="24" rx="12" fill="#731237" stroke="#EB355E"/>
+<text x="825" y="195" text-anchor="middle" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="13" font-weight="800" fill="#EB355E">S</text>
+</g>
+<g opacity="1">
+<rect x="16" y="254" width="268" height="74" rx="10" fill="#161b22" stroke="#30363d"/>
+<rect x="16" y="254" width="4" height="74" rx="2" fill="#EB355E"/>
+<text x="32" y="284" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="15" font-weight="700" fill="#e6edf3">Pull Sharer</text>
+<text x="32" y="304" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="12" fill="#8b949e">2,437 · PRs opened</text>
+<rect x="242" y="268" width="30" height="24" rx="12" fill="#731237" stroke="#EB355E"/>
+<text x="257" y="285" text-anchor="middle" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="13" font-weight="800" fill="#EB355E">S</text>
+</g>
+<g opacity="1">
+<rect x="300" y="254" width="268" height="74" rx="10" fill="#161b22" stroke="#30363d"/>
+<rect x="300" y="254" width="4" height="74" rx="2" fill="#EB355E"/>
+<text x="316" y="284" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="15" font-weight="700" fill="#e6edf3">Merger</text>
+<text x="316" y="304" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="12" fill="#8b949e">1,152 · PRs merged</text>
+<rect x="526" y="268" width="30" height="24" rx="12" fill="#731237" stroke="#EB355E"/>
+<text x="541" y="285" text-anchor="middle" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="13" font-weight="800" fill="#EB355E">S</text>
+</g>
+<g opacity="1">
+<rect x="584" y="254" width="268" height="74" rx="10" fill="#161b22" stroke="#30363d"/>
+<rect x="584" y="254" width="4" height="74" rx="2" fill="#EB355E"/>
+<text x="600" y="284" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="15" font-weight="700" fill="#e6edf3">Contributor</text>
+<text x="600" y="304" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="12" fill="#8b949e">2,284 · PRs to other repos</text>
+<rect x="810" y="268" width="30" height="24" rx="12" fill="#731237" stroke="#EB355E"/>
+<text x="825" y="285" text-anchor="middle" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="13" font-weight="800" fill="#EB355E">S</text>
+</g>
+<g opacity="0.45">
+<rect x="16" y="344" width="268" height="74" rx="10" fill="#161b22" stroke="#30363d"/>
+<rect x="16" y="344" width="4" height="74" rx="2" fill="#4A4A4A"/>
+<text x="32" y="374" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="15" font-weight="700" fill="#e6edf3">Reviewer</text>
+<text x="32" y="394" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="12" fill="#8b949e">2 · PRs reviewed</text>
+<rect x="242" y="358" width="30" height="24" rx="12" fill="#2A2A2A" stroke="#4A4A4A"/>
+<text x="257" y="375" text-anchor="middle" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="13" font-weight="800" fill="#4A4A4A">X</text>
+</g>
+<g opacity="1">
+<rect x="300" y="344" width="268" height="74" rx="10" fill="#161b22" stroke="#30363d"/>
+<rect x="300" y="344" width="4" height="74" rx="2" fill="#B59151"/>
+<text x="316" y="374" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="15" font-weight="700" fill="#e6edf3">Polyglot</text>
+<text x="316" y="394" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="12" fill="#8b949e">8 · languages used</text>
+<rect x="526" y="358" width="30" height="24" rx="12" fill="#FFD576" stroke="#B59151"/>
+<text x="541" y="375" text-anchor="middle" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="13" font-weight="800" fill="#B59151">A</text>
+</g>
+<g opacity="1">
+<rect x="584" y="344" width="268" height="74" rx="10" fill="#161b22" stroke="#30363d"/>
+<rect x="584" y="344" width="4" height="74" rx="2" fill="#EB355E"/>
+<text x="600" y="374" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="15" font-weight="700" fill="#e6edf3">Trendsetter</text>
+<text x="600" y="394" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="12" fill="#8b949e">165 · repo topics</text>
+<rect x="810" y="358" width="30" height="24" rx="12" fill="#731237" stroke="#EB355E"/>
+<text x="825" y="375" text-anchor="middle" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="13" font-weight="800" fill="#EB355E">S</text>
+</g>
+<g opacity="1">
+<rect x="16" y="434" width="268" height="74" rx="10" fill="#161b22" stroke="#30363d"/>
+<rect x="16" y="434" width="4" height="74" rx="2" fill="#EB355E"/>
+<text x="32" y="464" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="15" font-weight="700" fill="#e6edf3">Explorer</text>
+<text x="32" y="484" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="12" fill="#8b949e">50 · repos in 2026</text>
+<rect x="242" y="448" width="30" height="24" rx="12" fill="#731237" stroke="#EB355E"/>
+<text x="257" y="465" text-anchor="middle" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="13" font-weight="800" fill="#EB355E">S</text>
+</g>
+<g opacity="1">
+<rect x="300" y="434" width="268" height="74" rx="10" fill="#161b22" stroke="#30363d"/>
+<rect x="300" y="434" width="4" height="74" rx="2" fill="#B59151"/>
+<text x="316" y="464" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="15" font-weight="700" fill="#e6edf3">Veteran</text>
+<text x="316" y="484" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="12" fill="#8b949e">3.6 · account age (years)</text>
+<rect x="526" y="448" width="30" height="24" rx="12" fill="#FFD576" stroke="#B59151"/>
+<text x="541" y="465" text-anchor="middle" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="13" font-weight="800" fill="#B59151">A</text>
+</g>
+<g opacity="1">
+<rect x="584" y="434" width="268" height="74" rx="10" fill="#161b22" stroke="#30363d"/>
+<rect x="584" y="434" width="4" height="74" rx="2" fill="#EB355E"/>
+<text x="600" y="464" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="15" font-weight="700" fill="#e6edf3">Gister</text>
+<text x="600" y="484" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="12" fill="#8b949e">87 · public gists</text>
+<rect x="810" y="448" width="30" height="24" rx="12" fill="#731237" stroke="#EB355E"/>
+<text x="825" y="465" text-anchor="middle" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="13" font-weight="800" fill="#EB355E">S</text>
+</g>
+<text x="24" y="548" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="11" fill="#8b949e">S Master · A Super · B Great · C Good · X locked &#160;|&#160; generated 2026-10-01</text>
 </svg>
