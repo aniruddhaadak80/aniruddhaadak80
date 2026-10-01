@@ -4,14 +4,14 @@
 <rect x="1" y="1" width="866" height="662" rx="14" fill="none" stroke="#30363d"/>
 <rect x="1" y="1" width="866" height="64" rx="13" fill="url(#hd)"/>
 <text x="24" y="34" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="19" font-weight="700" fill="#e6edf3">🏆 Achievements</text>
-<text x="24" y="55" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="12" fill="#8b949e">15/16 unlocked · 44 stars · 68 followers · 150 repos</text>
-<text x="844" y="34" text-anchor="end" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="13" font-weight="700" fill="#FFD576">15 at tier B+</text>
-<text x="844" y="54" text-anchor="end" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="12" fill="#8b949e">15/16 unlocked</text>
+<text x="24" y="55" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="12" fill="#8b949e">14/16 unlocked · 44 stars · 68 followers · 105 repos</text>
+<text x="844" y="34" text-anchor="end" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="13" font-weight="700" fill="#FFD576">14 at tier B+</text>
+<text x="844" y="54" text-anchor="end" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="12" fill="#8b949e">14/16 unlocked</text>
 <g opacity="1">
 <rect x="16" y="74" width="268" height="74" rx="10" fill="#161b22" stroke="#30363d"/>
 <rect x="16" y="74" width="4" height="74" rx="2" fill="#EB355E"/>
 <text x="32" y="104" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="15" font-weight="700" fill="#e6edf3">Developer</text>
-<text x="32" y="124" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="12" fill="#8b949e">150 · public repos</text>
+<text x="32" y="124" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="12" fill="#8b949e">105 · public repos</text>
 <rect x="242" y="88" width="30" height="24" rx="12" fill="#731237" stroke="#EB355E"/>
 <text x="257" y="105" text-anchor="middle" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="13" font-weight="800" fill="#EB355E">S</text>
 </g>
@@ -119,21 +119,21 @@
 <rect x="526" y="448" width="30" height="24" rx="12" fill="#FFD576" stroke="#B59151"/>
 <text x="541" y="465" text-anchor="middle" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="13" font-weight="800" fill="#B59151">A</text>
 </g>
-<g opacity="1">
+<g opacity="0.45">
 <rect x="584" y="434" width="268" height="74" rx="10" fill="#161b22" stroke="#30363d"/>
-<rect x="584" y="434" width="4" height="74" rx="2" fill="#7D6CFF"/>
+<rect x="584" y="434" width="4" height="74" rx="2" fill="#4A4A4A"/>
 <text x="600" y="464" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="15" font-weight="700" fill="#e6edf3">Collaborator</text>
-<text x="600" y="484" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="12" fill="#8b949e">4 · repos w/ push access</text>
-<rect x="810" y="448" width="30" height="24" rx="12" fill="#B2A8FF" stroke="#7D6CFF"/>
-<text x="825" y="465" text-anchor="middle" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="13" font-weight="800" fill="#7D6CFF">B</text>
+<text x="600" y="484" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="12" fill="#8b949e">1 · repos w/ push access</text>
+<rect x="810" y="448" width="30" height="24" rx="12" fill="#2A2A2A" stroke="#4A4A4A"/>
+<text x="825" y="465" text-anchor="middle" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="13" font-weight="800" fill="#4A4A4A">X</text>
 </g>
 <g opacity="1">
 <rect x="16" y="524" width="268" height="74" rx="10" fill="#161b22" stroke="#30363d"/>
-<rect x="16" y="524" width="4" height="74" rx="2" fill="#EB355E"/>
+<rect x="16" y="524" width="4" height="74" rx="2" fill="#B59151"/>
 <text x="32" y="554" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="15" font-weight="700" fill="#e6edf3">Org Member</text>
-<text x="32" y="574" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="12" fill="#8b949e">6 · organizations</text>
-<rect x="242" y="538" width="30" height="24" rx="12" fill="#731237" stroke="#EB355E"/>
-<text x="257" y="555" text-anchor="middle" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="13" font-weight="800" fill="#EB355E">S</text>
+<text x="32" y="574" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="12" fill="#8b949e">4 · organizations</text>
+<rect x="242" y="538" width="30" height="24" rx="12" fill="#FFD576" stroke="#B59151"/>
+<text x="257" y="555" text-anchor="middle" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="13" font-weight="800" fill="#B59151">A</text>
 </g>
 <text x="24" y="638" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="11" fill="#8b949e">S Master · A Super · B Great · C Good · X locked &#160;|&#160; generated 2026-10-01</text>
 </svg>
