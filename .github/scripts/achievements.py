@@ -100,13 +100,15 @@ def collect(login, token):
             repositoryTopics(first: 10) { nodes { topic { name } } }
           }
         }
+        gists { totalCount }
       }
     }
     """
+    gist_count = 0
     while True:
-        data = graphql(
-            query, {"login": login, "cursor": cursor}, token
-        )["user"]["repositories"]
+        payload = graphql(query, {"login": login, "cursor": cursor}, token)["user"]
+        gist_count = (payload.get("gists") or {}).get("totalCount", 0)
+        data = payload["repositories"]
         repos.extend(data["nodes"])
         if not data["pageInfo"]["hasNextPage"]:
             break
@@ -135,16 +137,25 @@ def collect(login, token):
     )
 
     author = f"author:{login}"
-    merged = search_count(token, f"is:pr is:merged {author}")
-    prs = search_count(token, f"is:pr {author}")
-    prs_external = search_count(token, f"is:pr {author} -user:{login}")
-    issues = search_count(token, f"is:issue {author}")
-    issues_closed = search_count(token, f"is:issue is:closed {author}")
-    reviews = 0
-    try:
-        reviews = search_count(token, f"is:pr reviewed-by:{login} -author:{login}")
-    except urllib.error.HTTPError:
-        reviews = 0
+
+    def safe(fn, default=0):
+        """Optional stats must never break the whole card.
+
+        GITHUB_TOKEN is scope-limited, so endpoints such as gists or some search
+        qualifiers can return 403 in Actions even though they work for a PAT.
+        A missing stat degrades that one achievement instead of the card.
+        """
+        try:
+            return fn()
+        except Exception:  # noqa: BLE001 - deliberately broad, see docstring
+            return default
+
+    merged = safe(lambda: search_count(token, f"is:pr is:merged {author}"))
+    prs = safe(lambda: search_count(token, f"is:pr {author}"))
+    prs_external = safe(lambda: search_count(token, f"is:pr {author} -user:{login}"))
+    issues = safe(lambda: search_count(token, f"is:issue {author}"))
+    issues_closed = safe(lambda: search_count(token, f"is:issue is:closed {author}"))
+    reviews = safe(lambda: search_count(token, f"is:pr reviewed-by:{login} -author:{login}"))
 
     return {
         "repos": user["public_repos"],
@@ -164,7 +175,7 @@ def collect(login, token):
         "issues": issues,
         "issues_closed": issues_closed,
         "reviews": reviews,
-        "gists": len(get(f"{API}/users/{login}/gists?per_page=100", token)),
+        "gists": gist_count,
     }
 
 
