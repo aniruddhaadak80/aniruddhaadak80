@@ -15,16 +15,10 @@ concurrency:
 jobs:
   metrics:
     name: ${{ matrix.name }}
-    uses: lowlighter/metrics@v3.34
-    with:
-      token: ${{ github.token }}
-      user: ${{ github.repository_owner }}
-      committer_branch: ""
-      committer_message: "chore(metrics): update ${filename}"
-      output_action: commit
-      output_condition: data-changed
-      optimize: css, xml, svg
-      timeout-minutes: 60
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    timeout-minutes: 60
     strategy:
       fail-fast: false
       matrix:
@@ -47,7 +41,7 @@ jobs:
             plugin_achievements: "yes"
             plugin_achievements_display: detailed
 
-          - name: Achievements unlocked only
+          - name: Achievements unlocked
             filename: metrics.achievements.unlocked.svg
             base: ""
             plugin_achievements: "yes"
@@ -61,9 +55,7 @@ jobs:
             plugin_notable_filter: stars:>100
             plugin_notable_types: commit, pull_request, issue
             plugin_notable_from: "yes"
-            plugin_notable_repositories: "yes"
             repositories: 200
-            repositories_batch: 100
             repositories_affiliations: owner, collaborator, organization_member
 
           - name: Notable work indepth
@@ -72,9 +64,9 @@ jobs:
             plugin_notable: "yes"
             plugin_notable_filter: stars:>500
             plugin_notable_types: commit, pull_request
+            plugin_notable_from: "yes"
             plugin_notable_repositories: "yes"
             plugin_notable_indepth: "yes"
-            plugin_notable_from: "yes"
             repositories: 200
             repositories_affiliations: owner, collaborator, organization_member
 
@@ -82,9 +74,7 @@ jobs:
             filename: metrics.base.svg
             base: header, activity, community, repositories, metadata
             base_indepth: "yes"
-            base_hireable: "yes"
             repositories: 300
-            repositories_batch: 100
             repositories_affiliations: owner, collaborator, organization_member
 
           - name: Repositories
@@ -115,7 +105,7 @@ jobs:
             plugin_contributors_contributions: "yes"
             plugin_contributors_sections: activity, repositories
 
-          - name: Notable PRs review
+          - name: Followup
             filename: metrics.followup.svg
             base: header
             plugin_followup: "yes"
@@ -127,7 +117,7 @@ jobs:
             plugin_calendar: "yes"
             plugin_calendar_limit: 100
 
-          - name: Contributions summary
+          - name: Habits
             filename: metrics.habits.svg
             base: header
             plugin_habits: "yes"
@@ -142,27 +132,26 @@ jobs:
             plugin_stargazers_charts: type:heatmap
             plugin_stargazers_days: 30
 
-          - name: Supporters
+          - name: Sponsorships
             filename: metrics.sponsorships.svg
             base: ""
             plugin_sponsorships: "yes"
             plugin_sponsorships_sections: sponsors
 
-          - name: Support package
+          - name: Support
             filename: metrics.support.svg
             base: header
             plugin_support: "yes"
 
-          - name: Speedy
+          - name: Code
             filename: metrics.code.svg
             base: header
             plugin_code: "yes"
             plugin_code_days: 30
             plugin_code_lines: "yes"
-            plugin_code_languages: "yes"
             repositories: 100
 
-          - name: Weekly rhythm
+          - name: Activity
             filename: metrics.activity.svg
             base: ""
             plugin_activity: "yes"
@@ -170,8 +159,64 @@ jobs:
             plugin_activity_timestamps: "yes"
             plugin_activity_filter: all
             plugin_activity_limit: 50
-            plugin_activity_visibility: private, public
             plugin_activity_load: 500
 
-    permissions:
-      contents: write
+    steps:
+      - uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ github.token }}
+          user: ${{ github.repository_owner }}
+          filename: ${{ matrix.filename }}
+          base: ${{ matrix.base }}
+          committer_branch: ""
+          committer_message: "chore(metrics): update ${filename}"
+          output_action: commit
+          output_condition: data-changed
+          optimize: css, xml, svg
+          plugin_achievements: ${{ matrix.plugin_achievements }}
+          plugin_achievements_display: ${{ matrix.plugin_achievements_display }}
+          plugin_achievements_threshold: ${{ matrix.plugin_achievements_threshold }}
+          plugin_achievements_only: ${{ matrix.plugin_achievements_only }}
+          plugin_achievements_secrets: ${{ matrix.plugin_achievements_secrets }}
+          plugin_notable: ${{ matrix.plugin_notable }}
+          plugin_notable_filter: ${{ matrix.plugin_notable_filter }}
+          plugin_notable_types: ${{ matrix.plugin_notable_types }}
+          plugin_notable_from: ${{ matrix.plugin_notable_from }}
+          plugin_notable_repositories: ${{ matrix.plugin_notable_repositories }}
+          plugin_notable_indepth: ${{ matrix.plugin_notable_indepth }}
+          base_indepth: ${{ matrix.base_indepth }}
+          plugin_repositories: ${{ matrix.plugin_repositories }}
+          plugin_repositories_pinned: ${{ matrix.plugin_repositories_pinned }}
+          plugin_languages: ${{ matrix.plugin_languages }}
+          plugin_languages_limit: ${{ matrix.plugin_languages_limit }}
+          plugin_languages_details: ${{ matrix.plugin_languages_details }}
+          plugin_stars: ${{ matrix.plugin_stars }}
+          plugin_stars_limit: ${{ matrix.plugin_stars_limit }}
+          plugin_contributors: ${{ matrix.plugin_contributors }}
+          plugin_contributors_contributions: ${{ matrix.plugin_contributors_contributions }}
+          plugin_contributors_sections: ${{ matrix.plugin_contributors_sections }}
+          plugin_followup: ${{ matrix.plugin_followup }}
+          plugin_followup_archived: ${{ matrix.plugin_followup_archived }}
+          plugin_calendar: ${{ matrix.plugin_calendar }}
+          plugin_calendar_limit: ${{ matrix.plugin_calendar_limit }}
+          plugin_habits: ${{ matrix.plugin_habits }}
+          plugin_habits_days: ${{ matrix.plugin_habits_days }}
+          plugin_habits_charts: ${{ matrix.plugin_habits_charts }}
+          plugin_habits_facts: ${{ matrix.plugin_habits_facts }}
+          plugin_stargazers: ${{ matrix.plugin_stargazers }}
+          plugin_stargazers_charts: ${{ matrix.plugin_stargazers_charts }}
+          plugin_stargazers_days: ${{ matrix.plugin_stargazers_days }}
+          plugin_sponsorships: ${{ matrix.plugin_sponsorships }}
+          plugin_sponsorships_sections: ${{ matrix.plugin_sponsorships_sections }}
+          plugin_support: ${{ matrix.plugin_support }}
+          plugin_code: ${{ matrix.plugin_code }}
+          plugin_code_days: ${{ matrix.plugin_code_days }}
+          plugin_code_lines: ${{ matrix.plugin_code_lines }}
+          plugin_activity: ${{ matrix.plugin_activity }}
+          plugin_activity_days: ${{ matrix.plugin_activity_days }}
+          plugin_activity_timestamps: ${{ matrix.plugin_activity_timestamps }}
+          plugin_activity_filter: ${{ matrix.plugin_activity_filter }}
+          plugin_activity_limit: ${{ matrix.plugin_activity_limit }}
+          plugin_activity_load: ${{ matrix.plugin_activity_load }}
+          repositories: ${{ matrix.repositories }}
+          repositories_affiliations: ${{ matrix.repositories_affiliations }}
