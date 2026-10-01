@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    timeout-minutes: 300
+    timeout-minutes: 45
     steps:
       - name: Base overview
         uses: lowlighter/metrics@v3.34
@@ -34,37 +34,6 @@ jobs:
           output_condition: data-changed
           optimize: css, xml, svg
 
-      - name: Notable work
-        uses: lowlighter/metrics@v3.34
-        with:
-          token: ${{ github.token }}
-          user: ${{ github.repository_owner }}
-          filename: metrics.notable.svg
-          base: header
-          plugin_notable: "yes"
-          plugin_notable_filter: stars:>100
-          plugin_notable_types: commit, pull_request, issue
-          plugin_notable_from: "yes"
-          repositories: 200
-          repositories_affiliations: owner, collaborator, organization_member
-          output_action: commit
-          output_condition: data-changed
-          optimize: css, xml, svg
-
-      - name: Repositories
-        uses: lowlighter/metrics@v3.34
-        with:
-          token: ${{ github.token }}
-          user: ${{ github.repository_owner }}
-          filename: metrics.repositories.svg
-          base: ""
-          plugin_repositories: "yes"
-          plugin_repositories_pinned: "yes"
-          repositories: 200
-          output_action: commit
-          output_condition: data-changed
-          optimize: css, xml, svg
-
       - name: Languages
         uses: lowlighter/metrics@v3.34
         with:
@@ -76,19 +45,6 @@ jobs:
           plugin_languages_limit: 15
           plugin_languages_details: "yes"
           repositories: 200
-          output_action: commit
-          output_condition: data-changed
-          optimize: css, xml, svg
-
-      - name: Stars
-        uses: lowlighter/metrics@v3.34
-        with:
-          token: ${{ github.token }}
-          user: ${{ github.repository_owner }}
-          filename: metrics.stars.svg
-          base: ""
-          plugin_stars: "yes"
-          plugin_stars_limit: 20
           output_action: commit
           output_condition: data-changed
           optimize: css, xml, svg
@@ -119,34 +75,6 @@ jobs:
           output_condition: data-changed
           optimize: css, xml, svg
 
-      - name: Calendar
-        uses: lowlighter/metrics@v3.34
-        with:
-          token: ${{ github.token }}
-          user: ${{ github.repository_owner }}
-          filename: metrics.calendar.svg
-          base: ""
-          plugin_calendar: "yes"
-          plugin_calendar_limit: 100
-          output_action: commit
-          output_condition: data-changed
-          optimize: css, xml, svg
-
-      - name: Habits
-        uses: lowlighter/metrics@v3.34
-        with:
-          token: ${{ github.token }}
-          user: ${{ github.repository_owner }}
-          filename: metrics.habits.svg
-          base: header
-          plugin_habits: "yes"
-          plugin_habits_days: 30
-          plugin_habits_charts: insights
-          plugin_habits_facts: "yes"
-          output_action: commit
-          output_condition: data-changed
-          optimize: css, xml, svg
-
       - name: Stargazers
         uses: lowlighter/metrics@v3.34
         with:
@@ -157,35 +85,6 @@ jobs:
           plugin_stargazers: "yes"
           plugin_stargazers_charts: type:heatmap
           plugin_stargazers_days: 30
-          output_action: commit
-          output_condition: data-changed
-          optimize: css, xml, svg
-
-      - name: Support
-        uses: lowlighter/metrics@v3.34
-        with:
-          token: ${{ github.token }}
-          user: ${{ github.repository_owner }}
-          filename: metrics.support.svg
-          base: header
-          plugin_support: "yes"
-          output_action: commit
-          output_condition: data-changed
-          optimize: css, xml, svg
-
-      - name: Activity
-        uses: lowlighter/metrics@v3.34
-        with:
-          token: ${{ github.token }}
-          user: ${{ github.repository_owner }}
-          filename: metrics.activity.svg
-          base: ""
-          plugin_activity: "yes"
-          plugin_activity_days: 30
-          plugin_activity_timestamps: "yes"
-          plugin_activity_filter: all
-          plugin_activity_limit: 50
-          plugin_activity_load: 500
           output_action: commit
           output_condition: data-changed
           optimize: css, xml, svg
