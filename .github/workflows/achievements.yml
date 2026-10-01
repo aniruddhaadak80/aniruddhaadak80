@@ -1,0 +1,46 @@
+name: Generate achievements
+
+on:
+  schedule:
+    - cron: "41 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: achievements
+  cancel-in-progress: false
+
+jobs:
+  achievements:
+    name: Achievements card
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate card
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_USER: ${{ github.repository_owner }}
+          OUTPUT: metrics.achievements.svg
+        run: python .github/scripts/achievements.py
+
+      - name: Commit
+        run: |
+          if git diff --quiet -- metrics.achievements.svg; then
+            echo "no change"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add metrics.achievements.svg
+          git commit -m "chore: update achievements card"
+          git push
