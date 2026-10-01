@@ -1,0 +1,177 @@
+name: Generate metrics
+
+on:
+  schedule:
+    - cron: "27 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: metrics
+  cancel-in-progress: false
+
+jobs:
+  metrics:
+    name: ${{ matrix.name }}
+    uses: lowlighter/metrics@v3.34
+    with:
+      token: ${{ secrets.GITHUB_TOKEN }}
+      user: ${{ github.repository_owner }}
+      committer_branch: ""
+      committer_message: "chore(metrics): update ${filename}"
+      output_action: commit
+      output_condition: data-changed
+      optimize: css, xml, svg
+      timeout-minutes: 60
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - name: Achievements
+            filename: metrics.achievements.svg
+            base: ""
+            plugin_achievements: "yes"
+            plugin_achievements_display: compact
+            plugin_achievements_threshold: X
+            plugin_achievements_only: >-
+              polyglot, stargazer, sponsor, deployer, member, maintainer,
+              developer, scripter, packager, explorer, infographile, manager,
+              reviewer, contributor, octonaut, automator, worker, verified,
+              inspirer, chatter, helper, follower, forker, influencer, gister
+
+          - name: Achievements detailed
+            filename: metrics.achievements.detailed.svg
+            base: ""
+            plugin_achievements: "yes"
+            plugin_achievements_display: detailed
+
+          - name: Achievements unlocked only
+            filename: metrics.achievements.unlocked.svg
+            base: ""
+            plugin_achievements: "yes"
+            plugin_achievements_display: compact
+            plugin_achievements_secrets: "yes"
+
+          - name: Notable work
+            filename: metrics.notable.svg
+            base: header
+            plugin_notable: "yes"
+            plugin_notable_filter: stars:>100
+            plugin_notable_types: commit, pull_request, issue
+            plugin_notable_from: "yes"
+            plugin_notable_repositories: "yes"
+            repositories: 200
+            repositories_batch: 100
+            repositories_affiliations: owner, collaborator, organization_member
+
+          - name: Notable work indepth
+            filename: metrics.notable.independent.svg
+            base: header
+            plugin_notable: "yes"
+            plugin_notable_filter: stars:>500
+            plugin_notable_types: commit, pull_request
+            plugin_notable_repositories: "yes"
+            plugin_notable_indepth: "yes"
+            plugin_notable_from: "yes"
+            repositories: 200
+            repositories_affiliations: owner, collaborator, organization_member
+
+          - name: Base
+            filename: metrics.base.svg
+            base: header, activity, community, repositories, metadata
+            base_indepth: "yes"
+            base_hireable: "yes"
+            repositories: 300
+            repositories_batch: 100
+            repositories_affiliations: owner, collaborator, organization_member
+
+          - name: Repositories
+            filename: metrics.repositories.svg
+            base: ""
+            plugin_repositories: "yes"
+            plugin_repositories_pinned: "yes"
+            repositories: 200
+
+          - name: Languages
+            filename: metrics.languages.svg
+            base: header
+            plugin_languages: "yes"
+            plugin_languages_limit: 15
+            plugin_languages_details: "yes"
+            repositories: 200
+
+          - name: Stars
+            filename: metrics.stars.svg
+            base: ""
+            plugin_stars: "yes"
+            plugin_stars_limit: 20
+
+          - name: Contributors
+            filename: metrics.contributors.svg
+            base: header
+            plugin_contributors: "yes"
+            plugin_contributors_contributions: "yes"
+            plugin_contributors_sections: activity, repositories
+
+          - name: Notable PRs review
+            filename: metrics.followup.svg
+            base: header
+            plugin_followup: "yes"
+            plugin_followup_archived: "yes"
+
+          - name: Calendar
+            filename: metrics.calendar.svg
+            base: ""
+            plugin_calendar: "yes"
+            plugin_calendar_limit: 100
+
+          - name: Contributions summary
+            filename: metrics.habits.svg
+            base: header
+            plugin_habits: "yes"
+            plugin_habits_days: 30
+            plugin_habits_charts: insights
+            plugin_habits_facts: "yes"
+
+          - name: Stargazers
+            filename: metrics.stargazers.svg
+            base: ""
+            plugin_stargazers: "yes"
+            plugin_stargazers_charts: type:heatmap
+            plugin_stargazers_days: 30
+
+          - name: Supporters
+            filename: metrics.sponsorships.svg
+            base: ""
+            plugin_sponsorships: "yes"
+            plugin_sponsorships_sections: sponsors
+
+          - name: Support package
+            filename: metrics.support.svg
+            base: header
+            plugin_support: "yes"
+
+          - name: Speedy
+            filename: metrics.code.svg
+            base: header
+            plugin_code: "yes"
+            plugin_code_days: 30
+            plugin_code_lines: "yes"
+            plugin_code_languages: "yes"
+            repositories: 100
+
+          - name: Weekly rhythm
+            filename: metrics.activity.svg
+            base: ""
+            plugin_activity: "yes"
+            plugin_activity_days: 30
+            plugin_activity_timestamps: "yes"
+            plugin_activity_filter: all
+            plugin_activity_limit: 50
+            plugin_activity_visibility: private, public
+            plugin_activity_load: 500
+
+    permissions:
+      contents: write
