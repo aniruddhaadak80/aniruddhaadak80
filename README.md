@@ -17,9 +17,16 @@
 </h1>
 
 
+<p align="center">
+  <a href="https://github.com/aniruddhaadak80?tab=followers"><img src="https://img.shields.io/github/followers/aniruddhaadak80?style=for-the-badge&logo=github&color=1f6feb" alt="Followers" /></a>
+  <a href="https://github.com/aniruddhaadak80"><img src="https://img.shields.io/github/stars/aniruddhaadak80?style=for-the-badge&logo=github&color=1f6feb" alt="Stars earned" /></a>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge" alt="Open to work" />
+  <img src="https://img.shields.io/badge/Agentic%20Systems-7c3aed?style=for-the-badge" alt="Agentic Systems" />
+</p>
+
 <h2 align="center" color="green">
  <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f339/512.webp" type="image/webp">
+   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f339/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f339/512.gif" alt="🌹" width="32" height="32">
 </picture> 
 <strong>  
@@ -225,14 +232,24 @@ Tailwind CSS , JavaScript , Mongodb , Java , C++ , C , Python etc. </em></strong
 </div>
 
 
-<!-- My Contribution graph-->
-<h1 align='center' color="rgb(132,27,45)"> 📊 My Growth Curve! 📈 </h1>
+<!-- Deep dive metrics, generated daily by .github/workflows/metrics.yml -->
+<h1 align='center'>🧠 Deep Dive Metrics 🧠</h1>
 
-[![Aniruddha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aniruddhaadak80&theme=github-compact&hide_border=true	)](https://github.com/aniruddhaadak80/github-readme-activity-graph)
+<img align="center" src="https://raw.githubusercontent.com/aniruddhaadak80/aniruddhaadak80/main/metrics.base.svg" alt="Account overview: commits, issues, pull requests, repositories" width="100%" />
+
+<img align="center" src="https://raw.githubusercontent.com/aniruddhaadak80/aniruddhaadak80/main/metrics.languages.svg" alt="Language breakdown across repositories" width="49%" />
+<img align="center" src="https://raw.githubusercontent.com/aniruddhaadak80/aniruddhaadak80/main/metrics.stargazers.svg" alt="Where my stargazers are in the world" width="49%" />
+
+<img align="center" src="https://raw.githubusercontent.com/aniruddhaadak80/aniruddhaadak80/main/metrics.contributors.svg" alt="Repositories I contribute to" width="49%" />
+<img align="center" src="https://raw.githubusercontent.com/aniruddhaadak80/aniruddhaadak80/main/metrics.followup.svg" alt="Repositories needing follow-up" width="49%" />
 
 
 <!-- My achievements {cirtificate , badges , contest , recognisation ...} -->
 <h1  color="#ffaa00 " align='center'> 🏆 My Achievements 🎉</h1>
+
+<!-- Achievement ranks, generated daily by .github/scripts/achievements.py -->
+<img align="center" src="https://raw.githubusercontent.com/aniruddhaadak80/aniruddhaadak80/main/metrics.achievements.svg" alt="GitHub achievement ranks: Developer, Octonaut, Pull Sharer, Merger, Contributor, Polyglot and more" width="100%" />
+
 <h2 color= "#47de73" align="center"> 🦖🎖️ My Holopin Badges: Hacktoberfest 2024! 🚀 </h2>
 
 [![An image of @aniruddhaadak80's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aniruddhaadak80)](https://holopin.io/@aniruddhaadak80)
